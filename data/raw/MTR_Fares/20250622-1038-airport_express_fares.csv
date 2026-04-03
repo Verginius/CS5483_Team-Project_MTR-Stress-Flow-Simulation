@@ -1,0 +1,15 @@
+ST_FROM,ST_FROM_ID,ST_TO,ST_TO_ID,OCT_ADT_FARE,OCT_CHD_FARE,SINGLE_ADT_FARE,SINGLE_CHD_FARE
+HongKong,44,Airport,47,120,60,130,65
+HongKong,44,AsiaWorld-Expo,56,120,60,130,65
+Kowloon,45,Airport,47,105,52.5,115,57.5
+Kowloon,45,AsiaWorld-Expo,56,105,52.5,115,57.5
+Tsing Yi,46,Airport,47,73,36.5,80,40
+Tsing Yi,46,AsiaWorld-Expo,56,73,36.5,80,40
+Airport,47,HongKong,44,120,60,130,65
+Airport,47,Kowloon,45,105,52.5,115,57.5
+Airport,47,Tsing Yi,46,73,36.5,80,40
+Airport,47,AsiaWorld-Expo,56,6.5,3.2,7,3.5
+AsiaWorld-Expo,56,HongKong,44,120,60,130,65
+AsiaWorld-Expo,56,Kowloon,45,105,52.5,115,57.5
+AsiaWorld-Expo,56,Tsing Yi,46,73,36.5,80,40
+AsiaWorld-Expo,56,Airport,47,6.5,3.2,7,3.5
