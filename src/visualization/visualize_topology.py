@@ -52,22 +52,28 @@ def visualize_network(gml_path, output_html):
     node_text = []
     node_hovertext = []
     
-    # Simple color coding based on line (categorical mapping)
-    line_colors = {}
+    # Official MTR Line Colors
+    mtr_colors = {
+        'KTL': '#00ab4e', # 观塘线
+        'TWL': '#ed1d24', # 荃湾线
+        'ISL': '#0071ce', # 港岛线
+        'SIL': '#b6bd00', # 南港岛线
+        'TKL': '#a35eb5', # 将军澳线
+        'TCL': '#f7943f', # 东涌线
+        'DRL': '#f173ac', # 迪士尼线
+        'AEL': '#00888a', # 机场快线
+        'EAL': '#53b7e8', # 东铁线
+        'TML': '#8d6019'  # 屯马线
+    }
     node_colors = []
-    color_palette = [
-        '#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', 
-        '#8c564b', '#e377c2', '#7f7f7f', '#bcbd22', '#17becf'
-    ]
 
     for node in G.nodes():
         node_data = G.nodes[node]
         line = node_data.get('line', 'Unknown')
         
-        # Assign color per line
-        if line not in line_colors:
-            line_colors[line] = color_palette[len(line_colors) % len(color_palette)]
-        node_colors.append(line_colors[line])
+        # Assign official MTR colors
+        base_line = line.split('_')[0] if '_' in line else line
+        node_colors.append(mtr_colors.get(base_line, '#888888'))
         
         # Position
         x, y = pos[node]

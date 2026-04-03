@@ -1,0 +1,112 @@
+start_eng,end_eng,start_canto,end_canto,line,color,edge_distance_km
+Whampoa,Ho Man Tin,黃埔,何文田,Kwun Tong,#1C934A,0.8509269635532405
+Ho Man Tin,Yau Ma Tei,何文田,油麻地,Kwun Tong,#1C934A,1.414759801737943
+Yau Ma Tei,Mong Kok,油麻地,旺角,Kwun Tong,#1C934A,0.6338684154123202
+Mong Kok,Prince Edward,旺角,太子,Kwun Tong,#1C934A,0.7163487973184491
+Prince Edward,Shek Kip Mei,太子,石硤尾,Kwun Tong,#1C934A,0.6634094097736277
+Shek Kip Mei,Kowloon Tong,石硤尾,九龍塘,Kwun Tong,#1C934A,0.9888342147076513
+Kowloon Tong,Lok Fu,九龍塘,樂富,Kwun Tong,#1C934A,1.1879585552784848
+Lok Fu,Wong Tai Sin,樂富,黃大仙,Kwun Tong,#1C934A,0.7593955428951231
+Wong Tai Sin,Diamond Hill,黃大仙,鑽石山,Kwun Tong,#1C934A,0.8275725968944962
+Diamond Hill,Choi Hung,鑽石山,彩虹,Kwun Tong,#1C934A,0.9419416782532296
+Choi Hung,Kowloon Bay,彩虹,九龍灣,Kwun Tong,#1C934A,1.4057393379671008
+Kowloon Bay,Ngau Tau Kok,九龍灣,牛頭角,Kwun Tong,#1C934A,1.059476148305641
+Ngau Tau Kok,Kwun Tong,牛頭角,觀塘,Kwun Tong,#1C934A,0.8485608052053571
+Kwun Tong,Lam Tin,觀塘,藍田,Kwun Tong,#1C934A,0.884335595378447
+Lam Tin,Yau Tong,藍田,油塘,Kwun Tong,#1C934A,1.4601917037327963
+Yau Tong,Tiu Keng Leng,油塘,調景嶺,Kwun Tong,#1C934A,1.9541013912067329
+Tsuen Wan,Tai Wo Hau,荃灣,大窩口,Tsuen Wan,#ED1C24,0.6633384613972997
+Tai Wo Hau,Kwai Hing,大窩口,葵興,Tsuen Wan,#ED1C24,1.05649446997856
+Kwai Hing,Kwai Fong,葵興,葵芳,Tsuen Wan,#ED1C24,0.8201562022437805
+Kwai Fong,Lai King,葵芳,荔景,Tsuen Wan,#ED1C24,0.95570819147146
+Lai King,Mei Foo,荔景,美孚,Tsuen Wan,#ED1C24,1.704130659528181
+Mei Foo,Lai Chi Kok,美孚,荔枝角,Tsuen Wan,#ED1C24,1.033913738332422
+Lai Chi Kok,Cheung Sha Wan,荔枝角,長沙灣,Tsuen Wan,#ED1C24,1.004472144390567
+Cheung Sha Wan,Sham Shui Po,長沙灣,深水埗,Tsuen Wan,#ED1C24,0.7668704132033262
+Sham Shui Po,Prince Edward,深水埗,太子,Tsuen Wan,#ED1C24,0.8460076941584734
+Prince Edward,Mong Kok,太子,旺角,Tsuen Wan,#ED1C24,0.7163487973184491
+Mong Kok,Yau Ma Tei,旺角,油麻地,Tsuen Wan,#ED1C24,0.6338684154123202
+Yau Ma Tei,Jordan,油麻地,佐敦,Tsuen Wan,#ED1C24,1.0124763008092186
+Jordan,Tsim Sha Tsui,佐敦,尖沙咀,Tsuen Wan,#ED1C24,0.787085384394146
+Tsim Sha Tsui,Admiralty,尖沙咀,金鐘,Tsuen Wan,#ED1C24,2.181779167101734
+Admiralty,Central,金鐘,中環,Tsuen Wan,#ED1C24,0.7643418635172816
+Kennedy Town,HKU,堅尼地城,香港大學,Island,#0079C2,0.7030610554538301
+HKU,Sai Ying Pun,香港大學,西營盤,Island,#0079C2,0.8098539913163728
+Sai Ying Pun,Sheung Wan,西營盤,上環,Island,#0079C2,0.9471508007610281
+Sheung Wan,Central,上環,中環,Island,#0079C2,0.783580888833622
+Central,Admiralty,中環,金鐘,Island,#0079C2,0.7643418635172816
+Admiralty,Wan Chai,金鐘,灣仔,Island,#0079C2,0.908193405842371
+Wan Chai,Causeway Bay,灣仔,銅鑼灣,Island,#0079C2,1.2630630340914537
+Causeway Bay,Tin Hau,銅鑼灣,天后,Island,#0079C2,0.7243839741833888
+Tin Hau,Fortress Hill,天后,炮台山,Island,#0079C2,0.6481488660530592
+Fortress Hill,North Point,炮台山,北角,Island,#0079C2,0.8006656042029784
+North Point,Quarry Bay,北角,鰂魚涌,Island,#0079C2,1.0240646061331122
+Quarry Bay,Tai Koo,鰂魚涌,太古,Island,#0079C2,0.579561116440131
+Tai Koo,Sai Wan Ho,太古,西灣河,Island,#0079C2,0.8709872234104854
+Sai Wan Ho,Shau Kei Wan,西灣河,筲箕灣,Island,#0079C2,0.7474005340228077
+Shau Kei Wan,Heng Fa Chuen,筲箕灣,杏花邨,Island,#0079C2,1.1669536968721625
+Heng Fa Chuen,Chai Wan,杏花邨,柴灣,Island,#0079C2,1.3846241905502799
+South Horizons,Lei Tung,海怡半島,利東,South Island,#B2D235,0.8283608319285339
+Lei Tung,Wong Chuk Hang,利東,黃竹坑,South Island,#B2D235,1.47711939339749
+Wong Chuk Hang,Ocean Park,黃竹坑,海洋公園,South Island,#B2D235,0.655402849056107
+Ocean Park,Admiralty,海洋公園,金鐘,South Island,#B2D235,3.559408705885317
+North Point,Quarry Bay,北角,鰂魚涌,Tseung Kwan O,#9900AA,1.0240646061331122
+Quarry Bay,Yau Tong,鰂魚涌,油塘,Tseung Kwan O,#9900AA,2.9438022844539247
+Yau Tong,Tiu Keng Leng,油塘,調景嶺,Tseung Kwan O,#9900AA,1.9541013912067329
+Tiu Keng Leng,Tseung Kwan O,調景嶺,將軍澳,Tseung Kwan O,#9900AA,0.8050481555145172
+Tseung Kwan O,Hang Hau,將軍澳,坑口,Tseung Kwan O,#9900AA,1.0043186659667667
+Hang Hau,Po Lam,坑口,寶琳,Tseung Kwan O,#9900AA,1.1286871613932605
+Tseung Kwan O,LOHAS Park,將軍澳,康城,Tseung Kwan O,#9900AA,1.8812294079592806
+Hong Kong,Kowloon,香港,九龍,Tung Chung,#F57D14,2.243747944755686
+Kowloon,Olympic,九龍,奧運,Tung Chung,#F57D14,1.5027954383052142
+Olympic,Nam Cheong,奧運,南昌,Tung Chung,#F57D14,1.206422035351792
+Nam Cheong,Lai King,南昌,荔景,Tung Chung,#F57D14,3.707815247616828
+Lai King,Tsing Yi,荔景,青衣,Tung Chung,#F57D14,2.213652837513468
+Tsing Yi,Sunny Bay,青衣,欣澳,Tung Chung,#F57D14,8.624910457175378
+Sunny Bay,Tung Chung,欣澳,東涌,Tung Chung,#F57D14,10.169597028114488
+Sunny Bay,Disneyland Resort,欣澳,迪士尼,Disneyland Resort,#F86CAE,2.470227376651143
+Admiralty,Exhibition Centre,金鐘,會展,East Rail,#00A1E9,1.1660448895867253
+Exhibition Centre,Hung Hom,會展,紅磡,East Rail,#00A1E9,2.3892355637952845
+Hung Hom,Mong Kok East,紅磡,旺角東,East Rail,#00A1E9,2.36227074390622
+Mong Kok East,Kowloon Tong,旺角東,九龍塘,East Rail,#00A1E9,1.715796006950075
+Kowloon Tong,Tai Wai,九龍塘,大圍,East Rail,#00A1E9,4.022571922219994
+Tai Wai,Sha Tin,大圍,沙田,East Rail,#00A1E9,1.3231926977129058
+Sha Tin,Fo Tan,沙田,火炭,East Rail,#00A1E9,1.9773121958438642
+Fo Tan,Racecourse,火炭,馬場,East Rail,#00A1E9,0.7376015891745697
+Racecourse,University,馬場,大學,East Rail,#00A1E9,1.5478761260357798
+University,Tai Po Market,大學,大埔墟,East Rail,#00A1E9,5.279632193215312
+Tai Po Market,Tai Wo,大埔墟,太和,East Rail,#00A1E9,1.266449724981653
+Tai Wo,Fanling,太和,粉嶺,East Rail,#00A1E9,5.136824167588689
+Fanling,Sheung Shui,粉嶺,上水,East Rail,#00A1E9,1.429279910851241
+Sheung Shui,Lo Wu,上水,羅湖,East Rail,#00A1E9,3.294826962202628
+Sheung Shui,Lok Ma Chau,上水,落馬洲,East Rail,#00A1E9,4.956395565666122
+Tuen Mun,Siu Hong,屯門,兆康,Tuen Ma,#AD6738,1.7556364125277504
+Siu Hong,Tin Shui Wai,兆康,天水圍,Tuen Ma,#AD6738,6.2277655758277675
+Tin Shui Wai,Long Ping,天水圍,朗屏,Tuen Ma,#AD6738,2.6379216725312604
+Long Ping,Yuen Long,朗屏,元朗,Tuen Ma,#AD6738,0.9658153642290325
+Yuen Long,Kam Sheung Road,元朗,錦上路,Tuen Ma,#AD6738,3.216640038972432
+Kam Sheung Road,Tsuen Wan West,錦上路,荃灣西,Tuen Ma,#AD6738,8.827825539099642
+Tsuen Wan West,Mei Foo,荃灣西,美孚,Tuen Ma,#AD6738,4.388572643681579
+Mei Foo,Nam Cheong,美孚,南昌,Tuen Ma,#AD6738,2.0126165242405345
+Nam Cheong,Austin,南昌,柯士甸,Tuen Ma,#AD6738,2.709276275249558
+Austin,East Tsim Sha Tsui,柯士甸,尖東,Tuen Ma,#AD6738,1.4161484570509952
+East Tsim Sha Tsui,Hung Hom,尖東,紅磡,Tuen Ma,#AD6738,1.1361245980965045
+Hung Hom,Ho Man Tin,紅磡,何文田,Tuen Ma,#AD6738,0.738886736044837
+Ho Man Tin,To Kwa Wan,何文田,土瓜灣,Tuen Ma,#AD6738,1.1070975854318572
+To Kwa Wan,Sung Wong Toi,土瓜灣,宋皇臺,Tuen Ma,#AD6738,0.9364265643117077
+Sung Wong Toi,Kai Tak,宋皇臺,啟德,Tuen Ma,#AD6738,0.9941865076087057
+Kai Tak,Diamond Hill,啟德,鑽石山,Tuen Ma,#AD6738,1.0734604709905595
+Diamond Hill,Hin Keng,鑽石山,顯徑,Tuen Ma,#AD6738,4.137279280931933
+Hin Keng,Tai Wai,顯徑,大圍,Tuen Ma,#AD6738,1.2950843798161327
+Tai Wai,Che Kung Temple,大圍,車公廟,Tuen Ma,#AD6738,0.8187487658056963
+Che Kung Temple,Sha Tin Wai,車公廟,沙田圍,Tuen Ma,#AD6738,1.2465458883861575
+Sha Tin Wai,City One,沙田圍,第一城,Tuen Ma,#AD6738,0.8437398297458113
+City One,Shek Mun,第一城,石門,Tuen Ma,#AD6738,0.7162794928241529
+Shek Mun,Tai Shui Hang,石門,大水坑,Tuen Ma,#AD6738,2.737781050161323
+Tai Shui Hang,Heng On,大水坑,恆安,Tuen Ma,#AD6738,1.0355516284436694
+Heng On,Ma On Shan,恆安,馬鞍山,Tuen Ma,#AD6738,1.8895441679529865
+Ma On Shan,Wu Kai Sha,馬鞍山,烏溪沙,Tuen Ma,#AD6738,0.4071309119309917
+AsiaWorld-Expo,Airport,博覽館,機場,Airport Express,#009999,0.9216484931174309
+Airport,Tsing Yi,機場,青衣,Airport Express,#009999,18.22613249757272
+Tsing Yi,Kowloon,青衣,九龍,Airport Express,#009999,8.181401220153127
+Kowloon,Hong Kong,九龍,香港,Airport Express,#009999,2.243747944755686

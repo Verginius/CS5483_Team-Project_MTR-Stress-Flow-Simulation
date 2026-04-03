@@ -1,0 +1,122 @@
+station_eng,station_canto,line,lat,long,location_map_url,station_map_url
+Whampoa,黃埔,Kwun Tong,22.30503,114.18955,https://www.mtr.com.hk/archive/ch/services/maps/wha.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/wha.pdf
+Ho Man Tin,何文田,Kwun Tong,22.3093594,114.1827294,https://www.mtr.com.hk/archive/ch/services/maps/hom.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/hom.pdf
+Yau Ma Tei,油麻地,Kwun Tong,22.313734,114.169815,https://www.mtr.com.hk/archive/ch/services/maps/yat.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/yat.pdf
+Mong Kok,旺角,Kwun Tong,22.3194068,114.1692081,https://www.mtr.com.hk/archive/ch/services/maps/mok.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/mok.pdf
+Prince Edward,太子,Kwun Tong,22.325736,114.167909,https://www.mtr.com.hk/archive/ch/services/maps/pre.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/pre.pdf
+Shek Kip Mei,石硤尾,Kwun Tong,22.331675,114.168524,https://www.mtr.com.hk/archive/ch/services/maps/skm.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/skm.pdf
+Kowloon Tong,九龍塘,Kwun Tong,22.3371583,114.1760929,https://www.mtr.com.hk/archive/ch/services/maps/kot.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/kot.pdf
+Lok Fu,樂富,Kwun Tong,22.338015,114.187606,https://www.mtr.com.hk/archive/ch/services/maps/lof.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/lof.pdf
+Wong Tai Sin,黃大仙,Kwun Tong,22.34166,114.19385,https://www.mtr.com.hk/archive/ch/services/maps/wts.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/wts.pdf
+Diamond Hill,鑽石山,Kwun Tong,22.340017,114.201698,https://www.mtr.com.hk/archive/ch/services/maps/dih.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/dih.pdf
+Choi Hung,彩虹,Kwun Tong,22.3348908,114.2089891,https://www.mtr.com.hk/archive/ch/services/maps/chh.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/chh.pdf
+Kowloon Bay,九龍灣,Kwun Tong,22.3231532,114.2140657,https://www.mtr.com.hk/archive/ch/services/maps/kob.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/kob.pdf
+Ngau Tau Kok,牛頭角,Kwun Tong,22.315134,114.219628,https://www.mtr.com.hk/archive/ch/services/maps/ntk.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/ntk.pdf
+Kwun Tong,觀塘,Kwun Tong,22.311657,114.226971,https://www.mtr.com.hk/archive/ch/services/maps/kwt.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/kwt.pdf
+Lam Tin,藍田,Kwun Tong,22.30671,114.233702,https://www.mtr.com.hk/archive/ch/services/maps/lat.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/lat.pdf
+Yau Tong,油塘,Kwun Tong,22.2940736,114.2375638,https://www.mtr.com.hk/archive/ch/services/maps/yat.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/yat.pdf
+Tiu Keng Leng,調景嶺,Kwun Tong,22.3044835,114.2528669,https://www.mtr.com.hk/archive/ch/services/maps/tik.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/tik.pdf
+Tsuen Wan,荃灣,Tsuen Wan,22.3730677,114.1185963,https://www.mtr.com.hk/archive/ch/services/maps/tsw.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/tsw.pdf
+Tai Wo Hau,大窩口,Tsuen Wan,22.370609,114.124474,https://www.mtr.com.hk/archive/ch/services/maps/twh.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/twh.pdf
+Kwai Hing,葵興,Tsuen Wan,22.363471,114.131255,https://www.mtr.com.hk/archive/ch/services/maps/kwh.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/kwh.pdf
+Kwai Fong,葵芳,Tsuen Wan,22.3568133,114.1278223,https://www.mtr.com.hk/archive/ch/services/maps/kwf.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/kwf.pdf
+Lai King,荔景,Tsuen Wan,22.3483517,114.126192,https://www.mtr.com.hk/archive/ch/services/maps/lak.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/lak.pdf
+Mei Foo,美孚,Tsuen Wan,22.3375848,114.1379836,https://www.mtr.com.hk/archive/ch/services/maps/mef.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/mef.pdf
+Lai Chi Kok,荔枝角,Tsuen Wan,22.33726,114.14803,https://www.mtr.com.hk/archive/ch/services/maps/lck.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/lck.pdf
+Cheung Sha Wan,長沙灣,Tsuen Wan,22.33498,114.15748,https://www.mtr.com.hk/archive/ch/services/maps/csw.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/csw.pdf
+Sham Shui Po,深水埗,Tsuen Wan,22.3285899,114.1602846,https://www.mtr.com.hk/archive/ch/services/maps/ssp.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/ssp.pdf
+Prince Edward,太子,Tsuen Wan,22.325736,114.167909,https://www.mtr.com.hk/archive/ch/services/maps/pre.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/pre.pdf
+Mong Kok,旺角,Tsuen Wan,22.3194068,114.1692081,https://www.mtr.com.hk/archive/ch/services/maps/mok.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/mok.pdf
+Yau Ma Tei,油麻地,Tsuen Wan,22.313734,114.169815,https://www.mtr.com.hk/archive/ch/services/maps/yat.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/yat.pdf
+Jordan,佐敦,Tsuen Wan,22.30479,114.17166,https://www.mtr.com.hk/archive/ch/services/maps/jor.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/jor.pdf
+Tsim Sha Tsui,尖沙咀,Tsuen Wan,22.2977271,114.1721665,https://www.mtr.com.hk/archive/ch/services/maps/tst.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/tst.pdf
+Admiralty,金鐘,Tsuen Wan,22.279412,114.164559,https://www.mtr.com.hk/archive/ch/services/maps/adm.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/adm.pdf
+Central,中環,Tsuen Wan,22.2819989,114.1576766,https://www.mtr.com.hk/archive/ch/services/maps/cen.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/cent.pdf
+Kennedy Town,堅尼地城,Island,22.2812467,114.1288825,https://www.mtr.com.hk/archive/ch/services/maps/ket.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/ket.pdf
+HKU,香港大學,Island,22.283984,114.135042,https://www.mtr.com.hk/archive/ch/services/maps/hku.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/hku.pdf
+Sai Ying Pun,西營盤,Island,22.285533,114.142733,https://www.mtr.com.hk/archive/ch/services/maps/syp.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/syp.pdf
+Sheung Wan,上環,Island,22.2865601,114.1518714,https://www.mtr.com.hk/archive/ch/services/maps/shw.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/shw.pdf
+Central,中環,Island,22.2819989,114.1576766,https://www.mtr.com.hk/archive/ch/services/maps/cen.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/cen.pdf
+Admiralty,金鐘,Island,22.279412,114.164559,https://www.mtr.com.hk/archive/ch/services/maps/adm.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/adm.pdf
+Wan Chai,灣仔,Island,22.2775487,114.1731527,https://www.mtr.com.hk/archive/ch/services/maps/wac.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/wac.pdf
+Causeway Bay,銅鑼灣,Island,22.2803747,114.1850421,https://www.mtr.com.hk/archive/ch/services/maps/cab.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/cab.pdf
+Tin Hau,天后,Island,22.2824215,114.1917258,https://www.mtr.com.hk/archive/ch/services/maps/tih.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/tih.pdf
+Fortress Hill,炮台山,Island,22.2879969,114.1935635,https://www.mtr.com.hk/archive/ch/services/maps/foh.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/foh.pdf
+North Point,北角,Island,22.2912707,114.2004947,https://www.mtr.com.hk/archive/ch/services/maps/nop.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/nop.pdf
+Quarry Bay,鰂魚涌,Island,22.2878748,114.2097467,https://www.mtr.com.hk/archive/ch/services/maps/qub.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/qub.pdf
+Tai Koo,太古,Island,22.2851,114.214515,https://www.mtr.com.hk/archive/ch/services/maps/tik.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/tik.pdf
+Sai Wan Ho,西灣河,Island,22.282369,114.222449,https://www.mtr.com.hk/archive/ch/services/maps/swh.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/swh.pdf
+Shau Kei Wan,筲箕灣,Island,22.2792428,114.2288794,https://www.mtr.com.hk/archive/ch/services/maps/skw.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/skw.pdf
+Heng Fa Chuen,杏花邨,Island,22.27681,114.2399117,https://www.mtr.com.hk/archive/ch/services/maps/hfc.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/hfc.pdf
+Chai Wan,柴灣,Island,22.264625,114.237139,https://www.mtr.com.hk/archive/ch/services/maps/chw.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/chw.pdf
+South Horizons,海怡半島,South Island,22.2428603,114.1487444,https://www.mtr.com.hk/archive/ch/services/maps/soh.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/soh.pdf
+Lei Tung,利東,South Island,22.24074,114.15646,https://www.mtr.com.hk/archive/ch/services/maps/let.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/let.pdf
+Wong Chuk Hang,黃竹坑,South Island,22.24818,114.16835,https://www.mtr.com.hk/archive/ch/services/maps/wch.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/wch.pdf
+Ocean Park,海洋公園,South Island,22.2488032,114.1746826,https://www.mtr.com.hk/archive/ch/services/maps/ocp.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/ocp.pdf
+Admiralty,金鐘,South Island,22.279412,114.164559,https://www.mtr.com.hk/archive/ch/services/maps/adm.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/adm.pdf
+North Point,北角,Tseung Kwan O,22.2912707,114.2004947,https://www.mtr.com.hk/archive/ch/services/maps/nop.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/nop.pdf
+Quarry Bay,鰂魚涌,Tseung Kwan O,22.2878748,114.2097467,https://www.mtr.com.hk/archive/ch/services/maps/qub.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/qub.pdf
+Yau Tong,油塘,Tseung Kwan O,22.2940736,114.2375638,https://www.mtr.com.hk/archive/ch/services/maps/yat.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/yat.pdf
+Tiu Keng Leng,調景嶺,Tseung Kwan O,22.3044835,114.2528669,https://www.mtr.com.hk/archive/ch/services/maps/tik.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/tik.pdf
+Tseung Kwan O,將軍澳,Tseung Kwan O,22.306961,114.26022,https://www.mtr.com.hk/archive/ch/services/maps/tko.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/tko.pdf
+Hang Hau,坑口,Tseung Kwan O,22.3150136,114.2646417,https://www.mtr.com.hk/archive/ch/services/maps/hah.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/hah.pdf
+Po Lam,寶琳,Tseung Kwan O,22.322478,114.257206,https://www.mtr.com.hk/archive/ch/services/maps/poa.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/poa.pdf
+LOHAS Park,康城,Tseung Kwan O,22.2948541,114.2729928,https://www.mtr.com.hk/archive/ch/services/maps/lhp.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/lhp.pdf
+Hong Kong,香港,Tung Chung,22.284377,114.158056,https://www.mtr.com.hk/archive/ch/services/maps/hok.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/hok.pdf
+Kowloon,九龍,Tung Chung,22.304306,114.161475,https://www.mtr.com.hk/archive/ch/services/maps/kow.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/kow.pdf
+Olympic,奧運,Tung Chung,22.317771,114.16022,https://www.mtr.com.hk/archive/ch/services/maps/oly.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/oly.pdf
+Nam Cheong,南昌,Tung Chung,22.3267772,114.1536799,https://www.mtr.com.hk/archive/ch/services/maps/nac.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/nac.pdf
+Lai King,荔景,Tung Chung,22.3483517,114.126192,https://www.mtr.com.hk/archive/ch/services/maps/lak.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/lak.pdf
+Tsing Yi,青衣,Tung Chung,22.3584978,114.107672,https://www.mtr.com.hk/archive/ch/services/maps/tsy.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/tsy.pdf
+Sunny Bay,欣澳,Tung Chung,22.331731,114.0289607,https://www.mtr.com.hk/archive/ch/services/maps/sun.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/sun.pdf
+Tung Chung,東涌,Tung Chung,22.2873743,113.9425086,https://www.mtr.com.hk/archive/ch/services/maps/tuc.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/tuc.pdf
+Sunny Bay,欣澳,Disneyland Resort,22.331731,114.0289607,https://www.mtr.com.hk/archive/ch/services/maps/sun.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/sun.pdf
+Disneyland Resort,迪士尼,Disneyland Resort,22.3153543,114.0451876,https://www.mtr.com.hk/archive/ch/services/maps/dis.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/dis.pdf
+Admiralty,金鐘,East Rail,22.279412,114.164559,https://www.mtr.com.hk/archive/ch/services/maps/adm.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/adm.pdf
+Exhibition Centre,會展,East Rail,22.2821415,114.175501,https://www.mtr.com.hk/archive/ch/services/maps/exc.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/exc.pdf
+Hung Hom,紅磡,East Rail,22.3027389,114.1821136,https://www.mtr.com.hk/archive/ch/services/maps/huh.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/huh.pdf
+Mong Kok East,旺角東,East Rail,22.3220713,114.1725926,https://www.mtr.com.hk/archive/ch/services/maps/mkk.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/mkk.pdf
+Kowloon Tong,九龍塘,East Rail,22.3371583,114.1760929,https://www.mtr.com.hk/archive/ch/services/maps/kot.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/kot.pdf
+Tai Wai,大圍,East Rail,22.373284,114.178152,https://www.mtr.com.hk/archive/ch/services/maps/taw.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/taw.pdf
+Sha Tin,沙田,East Rail,22.382049,114.186856,https://www.mtr.com.hk/archive/ch/services/maps/sht.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/sht.pdf
+Fo Tan,火炭,East Rail,22.3959,114.198917,https://www.mtr.com.hk/archive/ch/services/maps/fot.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/fot.pdf
+Racecourse,馬場,East Rail,22.401083,114.2033947,https://www.mtr.com.hk/archive/ch/services/maps/rac.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/rac.pdf
+University,大學,East Rail,22.4134548,114.2102967,https://www.mtr.com.hk/archive/ch/services/maps/uni.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/uni.pdf
+Tai Po Market,大埔墟,East Rail,22.4442045,114.1711574,https://www.mtr.com.hk/archive/ch/services/maps/tap.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/tap.pdf
+Tai Wo,太和,East Rail,22.450572,114.16094,https://www.mtr.com.hk/archive/ch/services/maps/taw.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/taw.pdf
+Fanling,粉嶺,East Rail,22.4920033,114.1388264,https://www.mtr.com.hk/archive/ch/services/maps/fan.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/fan.pdf
+Sheung Shui,上水,East Rail,22.500874,114.128758,https://www.mtr.com.hk/archive/ch/services/maps/shs.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/shs.pdf
+Lo Wu,羅湖,East Rail,22.5276195,114.1149511,https://www.mtr.com.hk/archive/ch/services/maps/low.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/low.pdf
+Lok Ma Chau,落馬洲,East Rail,22.5098835,114.0815055,https://www.mtr.com.hk/archive/ch/services/maps/lmc.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/lmc.pdf
+Tuen Mun,屯門,Tuen Ma,22.394902,113.973274,https://www.mtr.com.hk/archive/ch/services/maps/tum.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/tum.pdf
+Siu Hong,兆康,Tuen Ma,22.409959,113.978413,https://www.mtr.com.hk/archive/ch/services/maps/sih.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/sih.pdf
+Tin Shui Wai,天水圍,Tuen Ma,22.4606419,114.0041996,https://www.mtr.com.hk/archive/ch/services/maps/tsw.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/tsw.pdf
+Long Ping,朗屏,Tuen Ma,22.44759,114.025635,https://www.mtr.com.hk/archive/ch/services/maps/lop.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/lop.pdf
+Yuen Long,元朗,Tuen Ma,22.446272,114.034924,https://www.mtr.com.hk/archive/ch/services/maps/yul.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/yul.pdf
+Kam Sheung Road,錦上路,Tuen Ma,22.4341977,114.0633652,https://www.mtr.com.hk/archive/ch/services/maps/ksr.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/ksr.pdf
+Tsuen Wan West,荃灣西,Tuen Ma,22.3680639,114.1108726,https://www.mtr.com.hk/archive/ch/services/maps/tww.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/tww.pdf
+Mei Foo,美孚,Tuen Ma,22.3375848,114.1379836,https://www.mtr.com.hk/archive/ch/services/maps/mef.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/mef.pdf
+Nam Cheong,南昌,Tuen Ma,22.3267772,114.1536799,https://www.mtr.com.hk/archive/ch/services/maps/nac.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/nac.pdf
+Austin,柯士甸,Tuen Ma,22.3052927,114.1661027,https://www.mtr.com.hk/archive/ch/services/maps/aus.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/aus.pdf
+East Tsim Sha Tsui,尖東,Tuen Ma,22.295263,114.174586,https://www.mtr.com.hk/archive/ch/services/maps/ets.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/ets.pdf
+Hung Hom,紅磡,Tuen Ma,22.3027389,114.1821136,https://www.mtr.com.hk/archive/ch/services/maps/huh.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/huh.pdf
+Ho Man Tin,何文田,Tuen Ma,22.3093594,114.1827294,https://www.mtr.com.hk/archive/ch/services/maps/hom.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/hom.pdf
+To Kwa Wan,土瓜灣,Tuen Ma,22.3181169,114.1878494,https://www.mtr.com.hk/archive/ch/services/maps/tkw.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/tkw.pdf
+Sung Wong Toi,宋皇臺,Tuen Ma,22.32591,114.1913,https://www.mtr.com.hk/archive/ch/services/maps/suw.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/suw.pdf
+Kai Tak,啟德,Tuen Ma,22.33057,114.199549,https://www.mtr.com.hk/archive/ch/services/maps/kat.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/kat.pdf
+Diamond Hill,鑽石山,Tuen Ma,22.340017,114.201698,https://www.mtr.com.hk/archive/ch/services/maps/dih.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/dih.pdf
+Hin Keng,顯徑,Tuen Ma,22.363834,114.17079,https://www.mtr.com.hk/archive/ch/services/maps/hik.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/hik.pdf
+Tai Wai,大圍,Tuen Ma,22.373284,114.178152,https://www.mtr.com.hk/archive/ch/services/maps/taw.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/taw.pdf
+Che Kung Temple,車公廟,Tuen Ma,22.37476,114.185953,https://www.mtr.com.hk/archive/ch/services/maps/ckt.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/ckt.pdf
+Sha Tin Wai,沙田圍,Tuen Ma,22.377823,114.197615,https://www.mtr.com.hk/archive/ch/services/maps/stw.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/stw.pdf
+City One,第一城,Tuen Ma,22.382832,114.203779,https://www.mtr.com.hk/archive/ch/services/maps/cio.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/cio.pdf
+Shek Mun,石門,Tuen Ma,22.387694,114.208349,https://www.mtr.com.hk/archive/ch/services/maps/shm.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/shm.pdf
+Tai Shui Hang,大水坑,Tuen Ma,22.408425,114.222716,https://www.mtr.com.hk/archive/ch/services/maps/tsh.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/tsh.pdf
+Heng On,恆安,Tuen Ma,22.41732,114.2257,https://www.mtr.com.hk/archive/ch/services/maps/heo.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/heo.pdf
+Ma On Shan,馬鞍山,Tuen Ma,22.4276756,114.2402751,https://www.mtr.com.hk/archive/ch/services/maps/mos.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/mos.pdf
+Wu Kai Sha,烏溪沙,Tuen Ma,22.4287258,114.2440697,https://www.mtr.com.hk/archive/ch/services/maps/wks.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/wks.pdf
+Hong Kong,香港,Airport Express,22.284377,114.158056,https://www.mtr.com.hk/archive/ch/services/maps/hok.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/hok.pdf
+Kowloon,九龍,Airport Express,22.304306,114.161475,https://www.mtr.com.hk/archive/ch/services/maps/kow.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/kow.pdf
+Tsing Yi,青衣,Airport Express,22.3584978,114.107672,https://www.mtr.com.hk/archive/ch/services/maps/tsy.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/tsy.pdf
+Airport,機場,Airport Express,22.3158675,113.9365616,https://www.mtr.com.hk/archive/ch/services/maps/air.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/air.pdf
+AsiaWorld-Expo,博覽館,Airport Express,22.321343,113.943288,https://www.mtr.com.hk/archive/ch/services/maps/awe.pdf,https://www.mtr.com.hk/archive/ch/services/layouts/awe.pdf
