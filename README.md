@@ -21,13 +21,14 @@ This project utilizes Hong Kong MTR's open data (real-time train information + s
 ```text
 MTR_Simulation/
 ├── data/
-│   ├── raw/                # Unprocessed static and POI data
-│   ├── processed/          # Processed graph structures and feature weights
-│   └── realtime/           # Real-time API cache snapshots
+│   ├── raw/                # Unprocessed static and POI data (e.g., MTR_Fares, Map_POI)
+│   ├── processed/          # Processed graph structures, features (e.g., stations_features.csv, mtr_topology.gml)
+│   └── realtime/           # Real-time API cache snapshots (e.g., Next Train JSONs)
 ├── docs/                   # Project documentation and specifications
+├── MTRSim/                 # Local Conda environment (Do not commit)
 ├── notebooks/              # Exploratory Data Analysis (EDA) & Prototyping
 ├── src/
-│   ├── data/               # Data fetching, preprocessing scripts, and API wrappers
+│   ├── data/               # Data fetching, extraction, and preprocessing (e.g., weight_feature_engineering.py)
 │   ├── models/             # Core algorithms (Gravity Model, Path Planner, Stress Engine)
 │   ├── visualization/      # Visualization dashboard (Streamlit+Pydeck)
 │   └── utils.py            # Utility functions (e.g., coordinates conversion)

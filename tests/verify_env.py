@@ -71,7 +71,7 @@ def verify_environment():
         import ipykernel
         import matplotlib
         import rasterio
-        print(f"✅ streamlit (v{st.__version__}), pydeck, plotly, requests, python-dotenv, ipykernel (v{ipykernel.__version__}), matplotlib (v{matplotlib.__version__}), and rasterio (v{rasterio.__version__}) are installed.")
+        print(f"✅ streamlit (v{st.__version__}), pydeck (v{pdk.__version__}), plotly (v{plotly.__version__}), requests (v{requests.__version__}), python-dotenv, ipykernel (v{ipykernel.__version__}), matplotlib (v{matplotlib.__version__}), and rasterio (v{rasterio.__version__}) are working.")
     except Exception as e:
         print(f"❌ Error with visualization/network libraries: {e}")
         errors += 1
