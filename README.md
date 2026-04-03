@@ -44,11 +44,29 @@ MTR_Simulation/
 - **Evaluation & Validation**: Employs **Multiple Linear Regression** and **Ablation Studies** to validate the degree to which POI features enhance the model's explanatory power.
 
 ## 🛠️ Tech Stack
-- **Programming Language**: Python 3.9+
+- **Programming Language**: Python 3.11+ (Recommended for better performance and package compatibility)
 - **Data Processing**: Pandas, NumPy
 - **Spatial / Graph Computing**: NetworkX, GeoPandas, Shapely
 - **Visualization**: Streamlit (Web UI), Pydeck (3D Map), Plotly (Charts)
 - **Data Sources**: Data.gov.hk (MTR API), Lands Department Open Map
+
+## 🚀 Setup & Installation (Recommendation)
+Due to the heavy reliance on spatial computation libraries (`geopandas`, `shapely`) which require complex C/C++ extensions, **we highly recommend using Conda** to manage the virtual environment, especially on Windows. This avoids common dependency conflicts and compilation errors during installation.
+
+1. **Create and activate a new Conda environment:**
+```bash
+conda create -n MTRSim python=3.11
+conda activate MTRSim   # If installed locally: conda activate .\MTRSim
+```
+
+2. **Install all packages via conda-forge (Highly Recommended):**
+```bash
+conda install --file requirements.txt -c conda-forge -y
+```
+*Alternatively, you can install dependencies using pip (may cause C-extension compilation errors on Windows):*
+```bash
+pip install -r requirements.txt
+```
 
 ## 👥 Role Assignment
 - **Data Engineer (Member A)**: API integration, database management, and graph topology construction.
