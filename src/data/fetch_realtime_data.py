@@ -7,13 +7,12 @@ from datetime import datetime
 # API接口地址
 API_URL = "https://rt.data.gov.hk/v1/transport/mtr/getSchedule.php"
 
-# 根据 data/raw/MTR_Train_Arrivals/Next_Train_API_Spec_v1.7.pdf 中提取的所有可用车站数据
 STATIONS_DATA = [
     ('AEL', ['HOK', 'KOW', 'TSY', 'AIR', 'AWE']),
     ('TCL', ['HOK', 'KOW', 'OLY', 'NAC', 'LAK', 'TSY', 'SUN', 'TUC']),
     ('TML', ['WKS', 'MOS', 'HEO', 'TSH', 'SHM', 'CIO', 'STW', 'CKT', 'TAW', 'HIK', 'DIH', 'KAT', 'SUW', 'TKW', 'HOM', 'HUH', 'ETS', 'AUS', 'NAC', 'MEF', 'TWW', 'KSR', 'YUL', 'LOP', 'TIS', 'SIH', 'TUM']),
-    ('TKL', ['NOP', 'QUB', 'YAT', 'TIK', 'TKO', 'LHP', 'HAH', 'POA']),
-    ('EAL', ['ADM', 'EXC', 'HUH', 'MKK', 'KOT', 'TAW', 'SHT', 'FOT', 'RAC', 'UNI', 'TAP', 'TWO', 'FAN', 'SHS', 'LOW', 'LMC']),
+    ('TKL', ['NOP', 'QUB', 'YAT', 'TIK', 'TKO', 'HAH', 'POA', 'LHP']),
+    ('EAL', ['ADM', 'EXC', 'HUH', 'MKK', 'KOT', 'TAW', 'SHT', 'FOT', 'UNI', 'TAP', 'TWO', 'FAN', 'SHS', 'LOW', 'LMC']),
     ('SIL', ['ADM', 'OCP', 'WCH', 'LET', 'SOH']),
     ('TWL', ['CEN', 'ADM', 'TST', 'JOR', 'YMT', 'MOK', 'PRE', 'SSP', 'CSW', 'LCK', 'MEF', 'LAK', 'KWF', 'KWH', 'TWH', 'TSW']),
     ('ISL', ['KET', 'HKU', 'SYP', 'SHW', 'CEN', 'ADM', 'WAC', 'CAB', 'TIH', 'FOH', 'NOP', 'QUB', 'TAK', 'SWH', 'SKW', 'HFC', 'CHW']),
