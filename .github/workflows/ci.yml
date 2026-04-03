@@ -40,7 +40,7 @@ jobs:
     - name: Verify Environment Configuration
       run: |
         # 运行我们之前调好的测试脚本来验证核心包是否都运转正常
-        python verify_env.py
+        python tests/verify_env.py
 
     - name: Run Unit Tests
       run: |
