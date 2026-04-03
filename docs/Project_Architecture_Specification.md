@@ -13,6 +13,7 @@ MTR_Simulation/
 │   ├── raw/                # Unprocessed MTR static/POI data
 │   ├── processed/          # Cleaned stations, graph, and POI weights
 │   └── realtime/           # Cached Next Train API responses
+├── docs/                   # Project documentation and specifications
 ├── notebooks/              # Exploratory Data Analysis (EDA) & Prototyping
 ├── src/
 │   ├── data/               # Data fetching and preprocessing scripts
