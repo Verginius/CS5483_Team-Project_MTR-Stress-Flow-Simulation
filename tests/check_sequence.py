@@ -1,13 +1,17 @@
 import pandas as pd
 import importlib.util
 import os
+import sys
+
+# Get project root based on current file location
+project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
 # Read CSV
-df = pd.read_csv('e:/CityU_CS/CS 5483/CS5483_Team-Project_MTR-Stress-Flow-Simulation/data/raw/MTR_Stations_Facilities/20231122-1027-mtr_lines_and_stations.csv')
+csv_path = os.path.join(project_root, 'data', 'raw', 'MTR_Stations_Facilities', '20231122-1027-mtr_lines_and_stations.csv')
+df = pd.read_csv(csv_path)
 
 # Load fetch_realtime_data.py
-import sys
-sys.path.append('e:/CityU_CS/CS 5483/CS5483_Team-Project_MTR-Stress-Flow-Simulation/src/data')
+sys.path.append(os.path.join(project_root, 'src', 'data'))
 import fetch_realtime_data
 
 print("Checking fetch_realtime_data.py STATIONS_DATA:")
@@ -31,11 +35,12 @@ for line, stations in fetch_realtime_data.STATIONS_DATA:
         pass # print(f"Line {line} matches OK.")
 
 print("\n----------------\nChecking network_topology.py mtr_sequences:")
-sys.path.append('e:/CityU_CS/CS 5483/CS5483_Team-Project_MTR-Stress-Flow-Simulation/src/models')
+sys.path.append(os.path.join(project_root, 'src', 'models'))
 import network_topology
 
 # Mock check on the hardcoded dict
-with open('e:/CityU_CS/CS 5483/CS5483_Team-Project_MTR-Stress-Flow-Simulation/src/models/network_topology.py', 'r', encoding='utf-8') as f:
+topology_path = os.path.join(project_root, 'src', 'models', 'network_topology.py')
+with open(topology_path, 'r', encoding='utf-8') as f:
     eval_text = ""
     in_dict = False
     for line in f:
