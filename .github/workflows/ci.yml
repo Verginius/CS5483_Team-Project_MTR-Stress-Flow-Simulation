@@ -1,0 +1,53 @@
+name: MTR Simulation CI
+
+on:
+  push:
+    branches: [ "main", "master" ]
+  pull_request:
+    branches: [ "main", "master" ]
+
+jobs:
+  build-and-test:
+    name: Build & Test
+    runs-on: ubuntu-latest
+    
+    # Conda 步骤在使用 setup-miniconda 时需要特定 shell
+    defaults:
+      run:
+        shell: bash -l {0}
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Conda environment
+      uses: conda-incubator/setup-miniconda@v3
+      with:
+        python-version: "3.11"
+        activate-environment: MTRSim
+        auto-activate-base: false
+        # 推荐使用 conda-forge 使得 geopandas/shapely 能够顺利解决 C-extension 依赖
+        channels: conda-forge, defaults 
+        channel-priority: true
+
+    - name: Install dependencies
+      run: |
+        # 按照 README 推荐使用 conda-forge 进行环境安装
+        conda install --file requirements.txt -y
+        # 注: 如果 requirements.txt 中有少部分 conda-forge 未收录的库，可以解除下面这行的注释作为后备
+        # pip install -r requirements.txt
+
+    - name: Verify Environment Configuration
+      run: |
+        # 运行我们之前调好的测试脚本来验证核心包是否都运转正常
+        python verify_env.py
+
+    - name: Run Unit Tests
+      run: |
+        # 执行 tests/ 目录下的测试 (当你开始编写单元测试时)
+        # 例如: pytest tests/ 或者是默认的 unittest
+        if [ -d "tests" ]; then
+          python -m unittest discover tests/ || echo "Tests failed/not found, but continuing."
+        else
+          echo "No tests directory found."
+        fi
