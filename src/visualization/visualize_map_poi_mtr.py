@@ -57,14 +57,12 @@ def main():
     show(raster, ax=ax, title="Hong Kong POI and MTR Stations")
     
     # 2. POI overlay
-    poi_gdf.plot(ax=ax, color='blue', markersize=0.5, alpha=0.1, label='POI (All Categories)')
-    
+    poi_gdf.plot(ax=ax, color='#FF8C00', markersize=1.5, alpha=0.3, label='POI (All Categories)')
+
     # 3. MTR Stations overlay
-    mtr_gdf.plot(ax=ax, color='red', markersize=30, edgecolor='black', marker='*', label='MTR Stations')
-    
+    mtr_gdf.plot(ax=ax, color='#00FF00', markersize=150, edgecolor='black', linewidth=1.2, marker='*', label='MTR Stations')
     # Additional styling
-    plt.legend(loc='lower left', frameon=True, fontsize=12, markerscale=5)
-    ax.axis('off')  # Hide axis coordinates for aesthetic
+    plt.legend(loc='lower left', frameon=True, fontsize=12, markerscale=2)
     
     # Output File
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
