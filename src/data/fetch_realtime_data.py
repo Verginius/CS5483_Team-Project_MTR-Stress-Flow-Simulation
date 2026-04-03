@@ -7,14 +7,24 @@ from datetime import datetime
 # API接口地址
 API_URL = "https://rt.data.gov.hk/v1/transport/mtr/getSchedule.php"
 
-# 测试/目标线路和站点 (需要根据你的静态网络数据进行扩展)
-# 参考代码含义: line = 线路代码, sta = 站点代码
-# 如 TWL: 荃湾线, ADM: 金钟
-TARGETS = [
-    {"line": "TWL", "sta": "ADM"},
-    {"line": "ISL", "sta": "CEN"},
-    {"line": "TCL", "sta": "KOW"},
+# 根据 data/raw/MTR_Train_Arrivals/Next_Train_API_Spec_v1.7.pdf 中提取的所有可用车站数据
+STATIONS_DATA = [
+    ('AEL', ['HOK', 'KOW', 'TSY', 'AIR', 'AWE']),
+    ('TCL', ['HOK', 'KOW', 'OLY', 'NAC', 'LAK', 'TSY', 'SUN', 'TUC']),
+    ('TML', ['WKS', 'MOS', 'HEO', 'TSH', 'SHM', 'CIO', 'STW', 'CKT', 'TAW', 'HIK', 'DIH', 'KAT', 'SUW', 'TKW', 'HOM', 'HUH', 'ETS', 'AUS', 'NAC', 'MEF', 'TWW', 'KSR', 'YUL', 'LOP', 'TIS', 'SIH', 'TUM']),
+    ('TKL', ['NOP', 'QUB', 'YAT', 'TIK', 'TKO', 'LHP', 'HAH', 'POA']),
+    ('EAL', ['ADM', 'EXC', 'HUH', 'MKK', 'KOT', 'TAW', 'SHT', 'FOT', 'RAC', 'UNI', 'TAP', 'TWO', 'FAN', 'SHS', 'LOW', 'LMC']),
+    ('SIL', ['ADM', 'OCP', 'WCH', 'LET', 'SOH']),
+    ('TWL', ['CEN', 'ADM', 'TST', 'JOR', 'YMT', 'MOK', 'PRE', 'SSP', 'CSW', 'LCK', 'MEF', 'LAK', 'KWF', 'KWH', 'TWH', 'TSW']),
+    ('ISL', ['KET', 'HKU', 'SYP', 'SHW', 'CEN', 'ADM', 'WAC', 'CAB', 'TIH', 'FOH', 'NOP', 'QUB', 'TAK', 'SWH', 'SKW', 'HFC', 'CHW']),
+    ('KTL', ['WHA', 'HOM', 'YMT', 'MOK', 'PRE', 'SKM', 'KOT', 'LOF', 'WTS', 'DIH', 'CHH', 'KOB', 'NTK', 'KWT', 'LAT', 'YAT', 'TIK']),
+    ('DRL', ['SUN', 'DIS'])
 ]
+
+TARGETS = []
+for line, stas in STATIONS_DATA:
+    for sta in stas:
+        TARGETS.append({"line": line, "sta": sta})
 
 # 获取当前脚本所在目录的上上级目录，定位到 data/realtime/
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
