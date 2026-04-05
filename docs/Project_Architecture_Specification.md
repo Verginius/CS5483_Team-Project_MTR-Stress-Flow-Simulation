@@ -21,7 +21,7 @@ MTR_Simulation/
 │   │   ├── poi_processor.py # LandsD POI spatial analysis
 │   │   └── graph_builder.py # NetworkX graph construction
 │   ├── models/             # Core algorithms
-│   │   ├── gravity_model.py # OD matrix generation (IPF algorithm)
+│   │   ├── xgboost_model.py # OD matrix generation (XGBoost regression)
 │   │   ├── path_planner.py  # Logit-based path assignment
 │   │   └── stress_engine.py # V/C ratio & cascade failure logic
 │   ├── visualization/      # UI components
@@ -46,7 +46,7 @@ MTR_Simulation/
     *   **Graph Engine**: Constructs a directed multi-layer graph using `NetworkX`.
 3.  **Knowledge Discovery Layer (Mining)**:
     *   **Feature Engineering**: K-Means clustering of stations based on POI density.
-    *   **Gravity Solver**: Executes the Double-Constrained Gravity Model via IPF to generate the OD Matrix.
+    *   **Demand Predictor**: Executes the XGBoost regression model using engineered spatial and network features to generate the OD Matrix.
 4.  **Simulation Layer**:
     *   **Path Assignment**: Distributes OD flow across the graph using the Multinomial Logit Model.
     *   **Dynamic Loading**: Overlays flow on edges based on real-time capacity ($C_{max}$).
@@ -62,13 +62,12 @@ MTR_Simulation/
 *   **Input**: `stations.csv`, `lines.csv`, `fares.json`.
 *   **Logic**: Splits nodes by line (e.g., ADM_ISL, ADM_TWL). Connects them with "Transfer Edges" (weighted by walk time) and "Travel Edges" (weighted by distance/fare).
 
-### Module: `gravity_model.py`
-*   **Algorithm**: Iterative Proportional Fitting (IPF).
+### Module: `xgboost_model.py`
+*   **Algorithm**: Extreme Gradient Boosting (XGBoost) Regression.
 *   **Process**: 
-    1. Initialize matrix $T_{ij}$ using POI-based weights.
-    2. Iterate rows: Scale $T_{ij}$ to match Station $i$ total outflow.
-    3. Iterate columns: Scale $T_{ij}$ to match Station $j$ total inflow.
-    4. Repeat until convergence.
+    1. Extract features (Origin POI clusters, Destination POI clusters, fare, total travel time, transfers).
+    2. Train model / generate inferences for OD pair demand flow.
+    3. Output Feature Importance for ablation study and validation report.
 
 ### Module: `dashboard.py`
 *   **Engine**: Streamlit.
@@ -79,5 +78,5 @@ MTR_Simulation/
 ## 5. Development Roadmap (Next Steps)
 1.  **Sprint 1**: Setup `mtr_api.py` and `graph_builder.py`. (A)
 2.  **Sprint 2**: Implement `poi_processor.py` and cluster stations. (C)
-3.  **Sprint 3**: Build the `gravity_model.py` and `path_planner.py`. (B)
+3.  **Sprint 3**: Build the `xgboost_model.py` and `path_planner.py`. (B)
 4.  **Sprint 4**: Integrate everything into the `dashboard.py` and run validation. (All)
