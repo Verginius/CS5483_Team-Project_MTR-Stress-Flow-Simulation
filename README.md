@@ -62,6 +62,13 @@ conda activate MTRSim   # If installed locally: conda activate .\MTRSim
 
 2. **Install all packages via conda-forge (Highly Recommended):**
 ```bash
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
+conda config --set show_channel_urls yes    # for Mainland Chinese users
+```
+
+```bash
 conda install --file requirements.txt -c conda-forge -y
 ```
 *Alternatively, you can install dependencies using pip (may cause C-extension compilation errors on Windows):*
