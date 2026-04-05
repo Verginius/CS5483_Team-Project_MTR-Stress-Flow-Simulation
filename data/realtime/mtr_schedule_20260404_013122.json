@@ -1,0 +1,3603 @@
+{
+    "timestamp": "2026-04-04T01:31:22.152191",
+    "data": [
+        {
+            "line": "AEL",
+            "sta": "HOK",
+            "schedule": {
+                "AEL-HOK": {
+                    "curr_time": "2026-04-04 01:31:18",
+                    "sys_time": "2026-04-04 01:31:18"
+                }
+            }
+        },
+        {
+            "line": "AEL",
+            "sta": "KOW",
+            "schedule": {
+                "AEL-KOW": {
+                    "curr_time": "2026-04-04 01:31:18",
+                    "sys_time": "2026-04-04 01:31:18"
+                }
+            }
+        },
+        {
+            "line": "AEL",
+            "sta": "TSY",
+            "schedule": {
+                "AEL-TSY": {
+                    "curr_time": "2026-04-04 01:31:18",
+                    "sys_time": "2026-04-04 01:31:18"
+                }
+            }
+        },
+        {
+            "line": "AEL",
+            "sta": "AIR",
+            "schedule": {
+                "AEL-AIR": {
+                    "curr_time": "2026-04-04 01:31:24",
+                    "sys_time": "2026-04-04 01:31:24"
+                }
+            }
+        },
+        {
+            "line": "AEL",
+            "sta": "AWE",
+            "schedule": {
+                "AEL-AWE": {
+                    "curr_time": "2026-04-04 01:31:18",
+                    "sys_time": "2026-04-04 01:31:18"
+                }
+            }
+        },
+        {
+            "line": "TCL",
+            "sta": "HOK",
+            "schedule": {
+                "TCL-HOK": {
+                    "curr_time": "2026-04-04 01:31:20",
+                    "sys_time": "2026-04-04 01:31:24",
+                    "UP": []
+                }
+            }
+        },
+        {
+            "line": "TCL",
+            "sta": "KOW",
+            "schedule": {
+                "TCL-KOW": {
+                    "curr_time": "2026-04-04 01:31:20",
+                    "sys_time": "2026-04-04 01:31:24",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TCL",
+            "sta": "OLY",
+            "schedule": {
+                "TCL-OLY": {
+                    "curr_time": "2026-04-04 01:31:20",
+                    "sys_time": "2026-04-04 01:31:24",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TCL",
+            "sta": "NAC",
+            "schedule": {
+                "TCL-NAC": {
+                    "curr_time": "2026-04-04 01:31:20",
+                    "sys_time": "2026-04-04 01:31:24",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TCL",
+            "sta": "LAK",
+            "schedule": {
+                "TCL-LAK": {
+                    "curr_time": "2026-04-04 01:31:20",
+                    "sys_time": "2026-04-04 01:31:24",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TCL",
+            "sta": "TSY",
+            "schedule": {
+                "TCL-TSY": {
+                    "curr_time": "2026-04-04 01:31:20",
+                    "sys_time": "2026-04-04 01:31:24",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TCL",
+            "sta": "SUN",
+            "schedule": {
+                "TCL-SUN": {
+                    "curr_time": "2026-04-04 01:31:25",
+                    "sys_time": "2026-04-04 01:31:29",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TCL",
+            "sta": "TUC",
+            "schedule": {
+                "TCL-TUC": {
+                    "curr_time": "2026-04-04 01:31:15",
+                    "sys_time": "2026-04-04 01:31:18",
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TML",
+            "sta": "WKS",
+            "schedule": {
+                "TML-WKS": {
+                    "curr_time": "2026-04-04 01:31:13",
+                    "sys_time": "2026-04-04 01:31:18",
+                    "UP": []
+                }
+            }
+        },
+        {
+            "line": "TML",
+            "sta": "MOS",
+            "schedule": {
+                "TML-MOS": {
+                    "curr_time": "2026-04-04 01:31:24",
+                    "sys_time": "2026-04-04 01:31:29",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TML",
+            "sta": "HEO",
+            "schedule": {
+                "TML-HEO": {
+                    "curr_time": "2026-04-04 01:31:24",
+                    "sys_time": "2026-04-04 01:31:29",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TML",
+            "sta": "TSH",
+            "schedule": {
+                "TML-TSH": {
+                    "curr_time": "2026-04-04 01:31:24",
+                    "sys_time": "2026-04-04 01:31:29",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TML",
+            "sta": "SHM",
+            "schedule": {
+                "TML-SHM": {
+                    "curr_time": "2026-04-04 01:31:19",
+                    "sys_time": "2026-04-04 01:31:24",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TML",
+            "sta": "CIO",
+            "schedule": {
+                "TML-CIO": {
+                    "curr_time": "2026-04-04 01:31:24",
+                    "sys_time": "2026-04-04 01:31:29",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TML",
+            "sta": "STW",
+            "schedule": {
+                "TML-STW": {
+                    "curr_time": "2026-04-04 01:31:24",
+                    "sys_time": "2026-04-04 01:31:29",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TML",
+            "sta": "CKT",
+            "schedule": {
+                "TML-CKT": {
+                    "curr_time": "2026-04-04 01:31:24",
+                    "sys_time": "2026-04-04 01:31:29",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TML",
+            "sta": "TAW",
+            "schedule": {
+                "TML-TAW": {
+                    "curr_time": "2026-04-04 01:31:24",
+                    "sys_time": "2026-04-04 01:31:29",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TML",
+            "sta": "HIK",
+            "schedule": {
+                "TML-HIK": {
+                    "curr_time": "2026-04-04 01:31:24",
+                    "sys_time": "2026-04-04 01:31:29",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TML",
+            "sta": "DIH",
+            "schedule": {
+                "TML-DIH": {
+                    "curr_time": "2026-04-04 01:31:19",
+                    "sys_time": "2026-04-04 01:31:24",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TML",
+            "sta": "KAT",
+            "schedule": {
+                "TML-KAT": {
+                    "curr_time": "2026-04-04 01:31:24",
+                    "sys_time": "2026-04-04 01:31:29",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TML",
+            "sta": "SUW",
+            "schedule": {
+                "TML-SUW": {
+                    "curr_time": "2026-04-04 01:31:24",
+                    "sys_time": "2026-04-04 01:31:29",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TML",
+            "sta": "TKW",
+            "schedule": {
+                "TML-TKW": {
+                    "curr_time": "2026-04-04 01:31:24",
+                    "sys_time": "2026-04-04 01:31:29",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TML",
+            "sta": "HOM",
+            "schedule": {
+                "TML-HOM": {
+                    "curr_time": "2026-04-04 01:31:31",
+                    "sys_time": "2026-04-04 01:31:34",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TML",
+            "sta": "HUH",
+            "schedule": {
+                "TML-HUH": {
+                    "curr_time": "2026-04-04 01:31:24",
+                    "sys_time": "2026-04-04 01:31:29",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TML",
+            "sta": "ETS",
+            "schedule": {
+                "TML-ETS": {
+                    "curr_time": "2026-04-04 01:31:24",
+                    "sys_time": "2026-04-04 01:31:29",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TML",
+            "sta": "AUS",
+            "schedule": {
+                "TML-AUS": {
+                    "curr_time": "2026-04-04 01:31:24",
+                    "sys_time": "2026-04-04 01:31:29",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TML",
+            "sta": "NAC",
+            "schedule": {
+                "TML-NAC": {
+                    "curr_time": "2026-04-04 01:31:24",
+                    "sys_time": "2026-04-04 01:31:29",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TML",
+            "sta": "MEF",
+            "schedule": {
+                "TML-MEF": {
+                    "curr_time": "2026-04-04 01:31:34",
+                    "sys_time": "2026-04-04 01:31:39",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TML",
+            "sta": "TWW",
+            "schedule": {
+                "TML-TWW": {
+                    "curr_time": "2026-04-04 01:31:34",
+                    "sys_time": "2026-04-04 01:31:39",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TML",
+            "sta": "KSR",
+            "schedule": {
+                "TML-KSR": {
+                    "curr_time": "2026-04-04 01:31:34",
+                    "sys_time": "2026-04-04 01:31:39",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TML",
+            "sta": "YUL",
+            "schedule": {
+                "TML-YUL": {
+                    "curr_time": "2026-04-04 01:31:34",
+                    "sys_time": "2026-04-04 01:31:39",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TML",
+            "sta": "LOP",
+            "schedule": {
+                "TML-LOP": {
+                    "curr_time": "2026-04-04 01:31:34",
+                    "sys_time": "2026-04-04 01:31:39",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TML",
+            "sta": "TIS",
+            "schedule": {
+                "TML-TIS": {
+                    "curr_time": "2026-04-04 01:31:34",
+                    "sys_time": "2026-04-04 01:31:39",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TML",
+            "sta": "SIH",
+            "schedule": {
+                "TML-SIH": {
+                    "curr_time": "2026-04-04 01:31:34",
+                    "sys_time": "2026-04-04 01:31:39",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TML",
+            "sta": "TUM",
+            "schedule": {
+                "TML-TUM": {
+                    "curr_time": "2026-04-04 01:31:34",
+                    "sys_time": "2026-04-04 01:31:39",
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TKL",
+            "sta": "NOP",
+            "schedule": {
+                "TKL-NOP": {
+                    "curr_time": "2026-04-04 01:31:43",
+                    "sys_time": "2026-04-04 01:31:44",
+                    "UP": []
+                }
+            }
+        },
+        {
+            "line": "TKL",
+            "sta": "QUB",
+            "schedule": {
+                "TKL-QUB": {
+                    "curr_time": "2026-04-04 01:31:43",
+                    "sys_time": "2026-04-04 01:31:44",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TKL",
+            "sta": "YAT",
+            "schedule": {
+                "TKL-YAT": {
+                    "curr_time": "2026-04-04 01:31:43",
+                    "sys_time": "2026-04-04 01:31:44",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TKL",
+            "sta": "TIK",
+            "schedule": {
+                "TKL-TIK": {
+                    "curr_time": "2026-04-04 01:31:38",
+                    "sys_time": "2026-04-04 01:31:39",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TKL",
+            "sta": "TKO",
+            "schedule": {
+                "TKL-TKO": {
+                    "curr_time": "2026-04-04 01:31:43",
+                    "sys_time": "2026-04-04 01:31:44",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TKL",
+            "sta": "HAH",
+            "schedule": {
+                "TKL-HAH": {
+                    "curr_time": "2026-04-04 01:31:48",
+                    "sys_time": "2026-04-04 01:31:49",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TKL",
+            "sta": "POA",
+            "schedule": {
+                "TKL-POA": {
+                    "curr_time": "2026-04-04 01:31:48",
+                    "sys_time": "2026-04-04 01:31:49",
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TKL",
+            "sta": "LHP",
+            "schedule": {
+                "TKL-LHP": {
+                    "curr_time": "2026-04-04 01:31:43",
+                    "sys_time": "2026-04-04 01:31:44",
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "EAL",
+            "sta": "ADM",
+            "schedule": {
+                "EAL-ADM": {
+                    "curr_time": "2026-04-04 01:31:35",
+                    "sys_time": "2026-04-04 01:31:39",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "LOW",
+                            "plat": "7",
+                            "time": "2026-04-04 06:06:16",
+                            "ttnt": "274",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "D"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "LMC",
+                            "plat": "7",
+                            "time": "2026-04-04 06:12:17",
+                            "ttnt": "280",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "D"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "LOW",
+                            "plat": "7",
+                            "time": "2026-04-04 06:19:47",
+                            "ttnt": "288",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "D"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "LMC",
+                            "plat": "7",
+                            "time": "2026-04-04 06:24:16",
+                            "ttnt": "292",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "D"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "EAL",
+            "sta": "EXC",
+            "schedule": {
+                "EAL-EXC": {
+                    "curr_time": "2026-04-04 01:31:35",
+                    "sys_time": "2026-04-04 01:31:39",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "LOW",
+                            "plat": "1",
+                            "time": "2026-04-04 06:06:16",
+                            "ttnt": "274",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "LMC",
+                            "plat": "1",
+                            "time": "2026-04-04 06:12:17",
+                            "ttnt": "280",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "LOW",
+                            "plat": "1",
+                            "time": "2026-04-04 06:19:47",
+                            "ttnt": "288",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "LMC",
+                            "plat": "1",
+                            "time": "2026-04-04 06:24:16",
+                            "ttnt": "292",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 05:57:52",
+                            "ttnt": "266",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 06:03:52",
+                            "ttnt": "272",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 06:09:52",
+                            "ttnt": "278",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 06:15:52",
+                            "ttnt": "284",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "EAL",
+            "sta": "HUH",
+            "schedule": {
+                "EAL-HUH": {
+                    "curr_time": "2026-04-04 01:31:40",
+                    "sys_time": "2026-04-04 01:31:44",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "LOW",
+                            "plat": "1",
+                            "time": "2026-04-04 05:29:30",
+                            "ttnt": "237",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "LMC",
+                            "plat": "1",
+                            "time": "2026-04-04 05:31:49",
+                            "ttnt": "240",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "LOW",
+                            "plat": "1",
+                            "time": "2026-04-04 05:39:14",
+                            "ttnt": "247",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "LMC",
+                            "plat": "1",
+                            "time": "2026-04-04 05:44:14",
+                            "ttnt": "252",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "ADM",
+                            "plat": "4",
+                            "time": "2026-04-04 05:54:20",
+                            "ttnt": "262",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "ADM",
+                            "plat": "4",
+                            "time": "2026-04-04 06:00:20",
+                            "ttnt": "268",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "ADM",
+                            "plat": "4",
+                            "time": "2026-04-04 06:06:20",
+                            "ttnt": "274",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "ADM",
+                            "plat": "4",
+                            "time": "2026-04-04 06:12:20",
+                            "ttnt": "280",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "EAL",
+            "sta": "MKK",
+            "schedule": {
+                "EAL-MKK": {
+                    "curr_time": "2026-04-04 01:31:45",
+                    "sys_time": "2026-04-04 01:31:49",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "LMC",
+                            "plat": "1",
+                            "time": "2026-04-04 05:27:16",
+                            "ttnt": "235",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "LOW",
+                            "plat": "2",
+                            "time": "2026-04-04 05:33:18",
+                            "ttnt": "241",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "LMC",
+                            "plat": "2",
+                            "time": "2026-04-04 05:38:18",
+                            "ttnt": "246",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "LOW",
+                            "plat": "2",
+                            "time": "2026-04-04 05:45:18",
+                            "ttnt": "253",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "ADM",
+                            "plat": "3",
+                            "time": "2026-04-04 05:48:29",
+                            "ttnt": "256",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "ADM",
+                            "plat": "3",
+                            "time": "2026-04-04 05:54:29",
+                            "ttnt": "262",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "ADM",
+                            "plat": "3",
+                            "time": "2026-04-04 06:00:29",
+                            "ttnt": "268",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "ADM",
+                            "plat": "3",
+                            "time": "2026-04-04 06:06:29",
+                            "ttnt": "274",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "EAL",
+            "sta": "KOT",
+            "schedule": {
+                "EAL-KOT": {
+                    "curr_time": "2026-04-04 01:31:45",
+                    "sys_time": "2026-04-04 01:31:49",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "LMC",
+                            "plat": "1",
+                            "time": "2026-04-04 05:29:53",
+                            "ttnt": "238",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "LOW",
+                            "plat": "1",
+                            "time": "2026-04-04 05:35:49",
+                            "ttnt": "244",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "LMC",
+                            "plat": "1",
+                            "time": "2026-04-04 05:41:06",
+                            "ttnt": "249",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "LOW",
+                            "plat": "1",
+                            "time": "2026-04-04 05:47:49",
+                            "ttnt": "256",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 05:45:00",
+                            "ttnt": "253",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 05:51:00",
+                            "ttnt": "259",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 05:57:00",
+                            "ttnt": "265",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 06:03:00",
+                            "ttnt": "271",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "EAL",
+            "sta": "TAW",
+            "schedule": {
+                "EAL-TAW": {
+                    "curr_time": "2026-04-04 01:31:51",
+                    "sys_time": "2026-04-04 01:31:54",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "LMC",
+                            "plat": "1",
+                            "time": "2026-04-04 05:34:12",
+                            "ttnt": "242",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "LOW",
+                            "plat": "1",
+                            "time": "2026-04-04 05:40:08",
+                            "ttnt": "248",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "LMC",
+                            "plat": "1",
+                            "time": "2026-04-04 05:45:35",
+                            "ttnt": "253",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "LOW",
+                            "plat": "1",
+                            "time": "2026-04-04 05:52:08",
+                            "ttnt": "260",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 05:39:54",
+                            "ttnt": "248",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 05:45:54",
+                            "ttnt": "254",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 05:51:54",
+                            "ttnt": "260",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 05:57:54",
+                            "ttnt": "266",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "EAL",
+            "sta": "SHT",
+            "schedule": {
+                "EAL-SHT": {
+                    "curr_time": "2026-04-04 01:31:51",
+                    "sys_time": "2026-04-04 01:31:54",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "LOW",
+                            "plat": "1",
+                            "time": "2026-04-04 05:34:28",
+                            "ttnt": "242",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "LMC",
+                            "plat": "2",
+                            "time": "2026-04-04 05:37:04",
+                            "ttnt": "245",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "LOW",
+                            "plat": "2",
+                            "time": "2026-04-04 05:43:00",
+                            "ttnt": "251",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "LMC",
+                            "plat": "2",
+                            "time": "2026-04-04 05:48:37",
+                            "ttnt": "256",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "ADM",
+                            "plat": "3",
+                            "time": "2026-04-04 05:37:13",
+                            "ttnt": "245",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "ADM",
+                            "plat": "3",
+                            "time": "2026-04-04 05:49:13",
+                            "ttnt": "257",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "ADM",
+                            "plat": "3",
+                            "time": "2026-04-04 05:55:13",
+                            "ttnt": "263",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "ADM",
+                            "plat": "3",
+                            "time": "2026-04-04 06:03:45",
+                            "ttnt": "271",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "EAL",
+            "sta": "FOT",
+            "schedule": {
+                "EAL-FOT": {
+                    "curr_time": "2026-04-04 01:31:45",
+                    "sys_time": "2026-04-04 01:31:49",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "LOW",
+                            "plat": "1",
+                            "time": "2026-04-04 05:37:12",
+                            "ttnt": "245",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "LMC",
+                            "plat": "1",
+                            "time": "2026-04-04 05:40:11",
+                            "ttnt": "248",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "LOW",
+                            "plat": "1",
+                            "time": "2026-04-04 05:46:07",
+                            "ttnt": "254",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "LMC",
+                            "plat": "1",
+                            "time": "2026-04-04 05:51:39",
+                            "ttnt": "259",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "ADM",
+                            "plat": "3",
+                            "time": "2026-04-04 06:00:42",
+                            "ttnt": "268",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "ADM",
+                            "plat": "3",
+                            "time": "2026-04-04 06:04:42",
+                            "ttnt": "272",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "ADM",
+                            "plat": "3",
+                            "time": "2026-04-04 06:08:00",
+                            "ttnt": "276",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "ADM",
+                            "plat": "3",
+                            "time": "2026-04-04 06:10:30",
+                            "ttnt": "278",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "EAL",
+            "sta": "UNI",
+            "schedule": {
+                "EAL-UNI": {
+                    "curr_time": "2026-04-04 01:31:51",
+                    "sys_time": "2026-04-04 01:31:54",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "LOW",
+                            "plat": "1",
+                            "time": "2026-04-04 05:41:00",
+                            "ttnt": "249",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "LMC",
+                            "plat": "1",
+                            "time": "2026-04-04 05:44:07",
+                            "ttnt": "252",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "LOW",
+                            "plat": "1",
+                            "time": "2026-04-04 05:50:03",
+                            "ttnt": "258",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "LMC",
+                            "plat": "1",
+                            "time": "2026-04-04 05:55:45",
+                            "ttnt": "263",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 05:57:12",
+                            "ttnt": "265",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 06:01:12",
+                            "ttnt": "269",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 06:04:10",
+                            "ttnt": "272",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 06:06:40",
+                            "ttnt": "274",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "EAL",
+            "sta": "TAP",
+            "schedule": {
+                "EAL-TAP": {
+                    "curr_time": "2026-04-04 01:31:45",
+                    "sys_time": "2026-04-04 01:31:49",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "LOW",
+                            "plat": "1",
+                            "time": "2026-04-04 05:46:58",
+                            "ttnt": "255",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "LMC",
+                            "plat": "1",
+                            "time": "2026-04-04 05:50:05",
+                            "ttnt": "258",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "LOW",
+                            "plat": "1",
+                            "time": "2026-04-04 05:56:01",
+                            "ttnt": "264",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "LMC",
+                            "plat": "1",
+                            "time": "2026-04-04 06:01:49",
+                            "ttnt": "270",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "ADM",
+                            "plat": "4",
+                            "time": "2026-04-04 05:50:52",
+                            "ttnt": "259",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "ADM",
+                            "plat": "4",
+                            "time": "2026-04-04 05:54:52",
+                            "ttnt": "263",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "ADM",
+                            "plat": "4",
+                            "time": "2026-04-04 05:58:22",
+                            "ttnt": "266",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "ADM",
+                            "plat": "4",
+                            "time": "2026-04-04 06:04:02",
+                            "ttnt": "272",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "EAL",
+            "sta": "TWO",
+            "schedule": {
+                "EAL-TWO": {
+                    "curr_time": "2026-04-04 01:31:51",
+                    "sys_time": "2026-04-04 01:31:54",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "LOW",
+                            "plat": "1",
+                            "time": "2026-04-04 05:49:11",
+                            "ttnt": "257",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "LMC",
+                            "plat": "1",
+                            "time": "2026-04-04 05:52:18",
+                            "ttnt": "260",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "LOW",
+                            "plat": "1",
+                            "time": "2026-04-04 05:58:14",
+                            "ttnt": "266",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "LMC",
+                            "plat": "1",
+                            "time": "2026-04-04 06:04:08",
+                            "ttnt": "272",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 05:48:30",
+                            "ttnt": "256",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 05:52:30",
+                            "ttnt": "260",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 05:56:05",
+                            "ttnt": "264",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 06:01:55",
+                            "ttnt": "270",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "EAL",
+            "sta": "FAN",
+            "schedule": {
+                "EAL-FAN": {
+                    "curr_time": "2026-04-04 01:31:51",
+                    "sys_time": "2026-04-04 01:31:54",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "LOW",
+                            "plat": "1",
+                            "time": "2026-04-04 05:54:04",
+                            "ttnt": "262",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "LMC",
+                            "plat": "1",
+                            "time": "2026-04-04 05:57:11",
+                            "ttnt": "265",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "LOW",
+                            "plat": "1",
+                            "time": "2026-04-04 06:03:07",
+                            "ttnt": "271",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "LMC",
+                            "plat": "1",
+                            "time": "2026-04-04 06:09:19",
+                            "ttnt": "277",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 05:42:04",
+                            "ttnt": "250",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 05:46:04",
+                            "ttnt": "254",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 05:50:39",
+                            "ttnt": "258",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 05:56:39",
+                            "ttnt": "264",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "EAL",
+            "sta": "SHS",
+            "schedule": {
+                "EAL-SHS": {
+                    "curr_time": "2026-04-04 01:31:51",
+                    "sys_time": "2026-04-04 01:31:54",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "LOW",
+                            "plat": "1",
+                            "time": "2026-04-04 05:56:20",
+                            "ttnt": "264",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "LMC",
+                            "plat": "1",
+                            "time": "2026-04-04 05:59:40",
+                            "ttnt": "267",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "LOW",
+                            "plat": "1",
+                            "time": "2026-04-04 06:05:23",
+                            "ttnt": "273",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "LMC",
+                            "plat": "1",
+                            "time": "2026-04-04 06:11:45",
+                            "ttnt": "279",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 05:39:20",
+                            "ttnt": "247",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 05:42:39",
+                            "ttnt": "250",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 05:47:39",
+                            "ttnt": "255",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 05:54:00",
+                            "ttnt": "262",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "EAL",
+            "sta": "LOW",
+            "schedule": {
+                "EAL-LOW": {
+                    "curr_time": "2026-04-04 01:31:51",
+                    "sys_time": "2026-04-04 01:31:54",
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "ADM",
+                            "plat": "1",
+                            "time": "2026-04-04 06:32:35",
+                            "ttnt": "300",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "ADM",
+                            "plat": "1",
+                            "time": "2026-04-04 06:49:03",
+                            "ttnt": "317",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "ADM",
+                            "plat": "1",
+                            "time": "2026-04-04 07:01:14",
+                            "ttnt": "329",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "ADM",
+                            "plat": "1",
+                            "time": "2026-04-04 07:11:42",
+                            "ttnt": "339",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "EAL",
+            "sta": "LMC",
+            "schedule": {
+                "EAL-LMC": {
+                    "curr_time": "2026-04-04 01:31:56",
+                    "sys_time": "2026-04-04 01:32:00",
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "ADM",
+                            "plat": "1",
+                            "time": "2026-04-04 06:19:04",
+                            "ttnt": "287",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "ADM",
+                            "plat": "1",
+                            "time": "2026-04-04 06:43:04",
+                            "ttnt": "311",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "ADM",
+                            "plat": "1",
+                            "time": "2026-04-04 07:11:25",
+                            "ttnt": "339",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "ADM",
+                            "plat": "1",
+                            "time": "2026-04-04 07:26:49",
+                            "ttnt": "354",
+                            "valid": "Y",
+                            "source": "+",
+                            "route": "",
+                            "timeType": "A"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "SIL",
+            "sta": "ADM",
+            "schedule": {
+                "SIL-ADM": {
+                    "curr_time": "2026-04-04 01:31:51",
+                    "sys_time": "2026-04-04 01:31:54",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "SOH",
+                            "plat": "5",
+                            "time": "2026-04-04 06:11:50",
+                            "ttnt": "279",
+                            "valid": "Y",
+                            "source": "+"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "SOH",
+                            "plat": "5",
+                            "time": "2026-04-04 06:19:24",
+                            "ttnt": "287",
+                            "valid": "Y",
+                            "source": "+"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "SOH",
+                            "plat": "5",
+                            "time": "2026-04-04 06:26:54",
+                            "ttnt": "295",
+                            "valid": "Y",
+                            "source": "+"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "SOH",
+                            "plat": "5",
+                            "time": "2026-04-04 06:34:24",
+                            "ttnt": "302",
+                            "valid": "Y",
+                            "source": "+"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "SIL",
+            "sta": "OCP",
+            "schedule": {
+                "SIL-OCP": {
+                    "curr_time": "2026-04-04 01:31:44",
+                    "sys_time": "2026-04-04 01:31:49",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "SOH",
+                            "plat": "1",
+                            "time": "2026-04-04 06:15:34",
+                            "ttnt": "283",
+                            "valid": "Y",
+                            "source": "+"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "SOH",
+                            "plat": "1",
+                            "time": "2026-04-04 06:23:04",
+                            "ttnt": "291",
+                            "valid": "Y",
+                            "source": "+"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "SOH",
+                            "plat": "1",
+                            "time": "2026-04-04 06:30:34",
+                            "ttnt": "298",
+                            "valid": "Y",
+                            "source": "+"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "SOH",
+                            "plat": "1",
+                            "time": "2026-04-04 06:38:04",
+                            "ttnt": "306",
+                            "valid": "Y",
+                            "source": "+"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 06:05:59",
+                            "ttnt": "274",
+                            "valid": "Y",
+                            "source": "+"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 06:13:59",
+                            "ttnt": "282",
+                            "valid": "Y",
+                            "source": "+"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 06:21:29",
+                            "ttnt": "289",
+                            "valid": "Y",
+                            "source": "+"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 06:28:59",
+                            "ttnt": "297",
+                            "valid": "Y",
+                            "source": "+"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "SIL",
+            "sta": "WCH",
+            "schedule": {
+                "SIL-WCH": {
+                    "curr_time": "2026-04-04 01:31:51",
+                    "sys_time": "2026-04-04 01:31:54",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "SOH",
+                            "plat": "1",
+                            "time": "2026-04-04 06:17:24",
+                            "ttnt": "285",
+                            "valid": "Y",
+                            "source": "+"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "SOH",
+                            "plat": "1",
+                            "time": "2026-04-04 06:25:01",
+                            "ttnt": "293",
+                            "valid": "Y",
+                            "source": "+"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "SOH",
+                            "plat": "1",
+                            "time": "2026-04-04 06:32:31",
+                            "ttnt": "300",
+                            "valid": "Y",
+                            "source": "+"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "SOH",
+                            "plat": "1",
+                            "time": "2026-04-04 06:40:01",
+                            "ttnt": "308",
+                            "valid": "Y",
+                            "source": "+"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 06:04:10",
+                            "ttnt": "272",
+                            "valid": "Y",
+                            "source": "+"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 06:12:10",
+                            "ttnt": "280",
+                            "valid": "Y",
+                            "source": "+"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 06:19:40",
+                            "ttnt": "287",
+                            "valid": "Y",
+                            "source": "+"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 06:27:10",
+                            "ttnt": "295",
+                            "valid": "Y",
+                            "source": "+"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "SIL",
+            "sta": "LET",
+            "schedule": {
+                "SIL-LET": {
+                    "curr_time": "2026-04-04 01:31:51",
+                    "sys_time": "2026-04-04 01:31:54",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "SOH",
+                            "plat": "1",
+                            "time": "2026-04-04 06:20:00",
+                            "ttnt": "288",
+                            "valid": "Y",
+                            "source": "+"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "SOH",
+                            "plat": "1",
+                            "time": "2026-04-04 06:27:39",
+                            "ttnt": "295",
+                            "valid": "Y",
+                            "source": "+"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "SOH",
+                            "plat": "1",
+                            "time": "2026-04-04 06:35:09",
+                            "ttnt": "303",
+                            "valid": "Y",
+                            "source": "+"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "SOH",
+                            "plat": "1",
+                            "time": "2026-04-04 06:42:39",
+                            "ttnt": "310",
+                            "valid": "Y",
+                            "source": "+"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 06:01:45",
+                            "ttnt": "269",
+                            "valid": "Y",
+                            "source": "+"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 06:09:45",
+                            "ttnt": "277",
+                            "valid": "Y",
+                            "source": "+"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 06:17:15",
+                            "ttnt": "285",
+                            "valid": "Y",
+                            "source": "+"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 06:24:45",
+                            "ttnt": "292",
+                            "valid": "Y",
+                            "source": "+"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "SIL",
+            "sta": "SOH",
+            "schedule": {
+                "SIL-SOH": {
+                    "curr_time": "2026-04-04 01:31:51",
+                    "sys_time": "2026-04-04 01:31:54",
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "ADM",
+                            "plat": "2",
+                            "time": "2026-04-04 06:00:21",
+                            "ttnt": "268",
+                            "valid": "Y",
+                            "source": "+"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "ADM",
+                            "plat": "1",
+                            "time": "2026-04-04 06:08:21",
+                            "ttnt": "276",
+                            "valid": "Y",
+                            "source": "+"
+                        },
+                        {
+                            "seq": "3",
+                            "dest": "ADM",
+                            "plat": "1",
+                            "time": "2026-04-04 06:15:51",
+                            "ttnt": "283",
+                            "valid": "Y",
+                            "source": "+"
+                        },
+                        {
+                            "seq": "4",
+                            "dest": "ADM",
+                            "plat": "1",
+                            "time": "2026-04-04 06:23:21",
+                            "ttnt": "291",
+                            "valid": "Y",
+                            "source": "+"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "TWL",
+            "sta": "CEN",
+            "schedule": {
+                "TWL-CEN": {
+                    "curr_time": "2026-04-04 01:31:51",
+                    "sys_time": "2026-04-04 01:31:54",
+                    "UP": []
+                }
+            }
+        },
+        {
+            "line": "TWL",
+            "sta": "ADM",
+            "schedule": {
+                "TWL-ADM": {
+                    "curr_time": "2026-04-04 01:31:51",
+                    "sys_time": "2026-04-04 01:31:54",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TWL",
+            "sta": "TST",
+            "schedule": {
+                "TWL-TST": {
+                    "curr_time": "2026-04-04 01:31:56",
+                    "sys_time": "2026-04-04 01:32:00",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TWL",
+            "sta": "JOR",
+            "schedule": {
+                "TWL-JOR": {
+                    "curr_time": "2026-04-04 01:31:51",
+                    "sys_time": "2026-04-04 01:31:54",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TWL",
+            "sta": "YMT",
+            "schedule": {
+                "TWL-YMT": {
+                    "curr_time": "2026-04-04 01:31:56",
+                    "sys_time": "2026-04-04 01:32:00",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TWL",
+            "sta": "MOK",
+            "schedule": {
+                "TWL-MOK": {
+                    "curr_time": "2026-04-04 01:31:51",
+                    "sys_time": "2026-04-04 01:31:54",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TWL",
+            "sta": "PRE",
+            "schedule": {
+                "TWL-PRE": {
+                    "curr_time": "2026-04-04 01:32:01",
+                    "sys_time": "2026-04-04 01:32:05",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TWL",
+            "sta": "SSP",
+            "schedule": {
+                "TWL-SSP": {
+                    "curr_time": "2026-04-04 01:32:01",
+                    "sys_time": "2026-04-04 01:32:05",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TWL",
+            "sta": "CSW",
+            "schedule": {
+                "TWL-CSW": {
+                    "curr_time": "2026-04-04 01:32:01",
+                    "sys_time": "2026-04-04 01:32:05",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TWL",
+            "sta": "LCK",
+            "schedule": {
+                "TWL-LCK": {
+                    "curr_time": "2026-04-04 01:31:56",
+                    "sys_time": "2026-04-04 01:32:00",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TWL",
+            "sta": "MEF",
+            "schedule": {
+                "TWL-MEF": {
+                    "curr_time": "2026-04-04 01:32:01",
+                    "sys_time": "2026-04-04 01:32:05",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TWL",
+            "sta": "LAK",
+            "schedule": {
+                "TWL-LAK": {
+                    "curr_time": "2026-04-04 01:32:06",
+                    "sys_time": "2026-04-04 01:32:10",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TWL",
+            "sta": "KWF",
+            "schedule": {
+                "TWL-KWF": {
+                    "curr_time": "2026-04-04 01:32:06",
+                    "sys_time": "2026-04-04 01:32:10",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TWL",
+            "sta": "KWH",
+            "schedule": {
+                "TWL-KWH": {
+                    "curr_time": "2026-04-04 01:32:06",
+                    "sys_time": "2026-04-04 01:32:10",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TWL",
+            "sta": "TWH",
+            "schedule": {
+                "TWL-TWH": {
+                    "curr_time": "2026-04-04 01:32:06",
+                    "sys_time": "2026-04-04 01:32:10",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "TWL",
+            "sta": "TSW",
+            "schedule": {
+                "TWL-TSW": {
+                    "curr_time": "2026-04-04 01:32:06",
+                    "sys_time": "2026-04-04 01:32:10",
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "ISL",
+            "sta": "KET",
+            "schedule": {
+                "ISL-KET": {
+                    "curr_time": "2026-04-04 01:32:07",
+                    "sys_time": "2026-04-04 01:32:10",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "CHW",
+                            "plat": "1",
+                            "time": "2026-04-05 01:11:07",
+                            "ttnt": "1419",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "ISL",
+            "sta": "HKU",
+            "schedule": {
+                "ISL-HKU": {
+                    "curr_time": "2026-04-04 01:32:07",
+                    "sys_time": "2026-04-04 01:32:10",
+                    "UP": [],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "KET",
+                            "plat": "2",
+                            "time": "2026-04-05 01:10:07",
+                            "ttnt": "1418",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "ISL",
+            "sta": "SYP",
+            "schedule": {
+                "ISL-SYP": {
+                    "curr_time": "2026-04-04 01:32:07",
+                    "sys_time": "2026-04-04 01:32:10",
+                    "UP": [],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "KET",
+                            "plat": "2",
+                            "time": "2026-04-05 01:08:07",
+                            "ttnt": "1416",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "ISL",
+            "sta": "SHW",
+            "schedule": {
+                "ISL-SHW": {
+                    "curr_time": "2026-04-04 01:32:07",
+                    "sys_time": "2026-04-04 01:32:16",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "ISL",
+            "sta": "CEN",
+            "schedule": {
+                "ISL-CEN": {
+                    "curr_time": "2026-04-04 01:32:07",
+                    "sys_time": "2026-04-04 01:32:16",
+                    "UP": [],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "ISL",
+            "sta": "ADM",
+            "schedule": {
+                "ISL-ADM": {
+                    "curr_time": "2026-04-04 01:32:07",
+                    "sys_time": "2026-04-04 01:32:16",
+                    "UP": [],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "KET",
+                            "plat": "2",
+                            "time": "2026-04-05 01:02:07",
+                            "ttnt": "1410",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "ISL",
+            "sta": "WAC",
+            "schedule": {
+                "ISL-WAC": {
+                    "curr_time": "2026-04-04 01:32:07",
+                    "sys_time": "2026-04-04 01:32:16",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "CHW",
+                            "plat": "1",
+                            "time": "2026-04-05 01:22:07",
+                            "ttnt": "1430",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "KET",
+                            "plat": "2",
+                            "time": "2026-04-05 01:00:07",
+                            "ttnt": "1408",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "ISL",
+            "sta": "CAB",
+            "schedule": {
+                "ISL-CAB": {
+                    "curr_time": "2026-04-04 01:32:07",
+                    "sys_time": "2026-04-04 01:32:10",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "CHW",
+                            "plat": "1",
+                            "time": "2026-04-05 01:24:07",
+                            "ttnt": "1432",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "KET",
+                            "plat": "2",
+                            "time": "2026-04-05 00:58:07",
+                            "ttnt": "1406",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "ISL",
+            "sta": "TIH",
+            "schedule": {
+                "ISL-TIH": {
+                    "curr_time": "2026-04-04 01:32:07",
+                    "sys_time": "2026-04-04 01:32:16",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "CHW",
+                            "plat": "1",
+                            "time": "2026-04-05 01:26:07",
+                            "ttnt": "1434",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "KET",
+                            "plat": "2",
+                            "time": "2026-04-05 00:56:07",
+                            "ttnt": "1404",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "ISL",
+            "sta": "FOH",
+            "schedule": {
+                "ISL-FOH": {
+                    "curr_time": "2026-04-04 01:32:07",
+                    "sys_time": "2026-04-04 01:32:16",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "CHW",
+                            "plat": "1",
+                            "time": "2026-04-05 01:28:07",
+                            "ttnt": "1436",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "KET",
+                            "plat": "2",
+                            "time": "2026-04-05 00:54:07",
+                            "ttnt": "1402",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "ISL",
+            "sta": "NOP",
+            "schedule": {
+                "ISL-NOP": {
+                    "curr_time": "2026-04-04 01:32:07",
+                    "sys_time": "2026-04-04 01:32:16",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "CHW",
+                            "plat": "1",
+                            "time": "2026-04-05 01:29:07",
+                            "ttnt": "1437",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "KET",
+                            "plat": "2",
+                            "time": "2026-04-05 00:52:07",
+                            "ttnt": "1400",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "ISL",
+            "sta": "QUB",
+            "schedule": {
+                "ISL-QUB": {
+                    "curr_time": "2026-04-04 01:32:07",
+                    "sys_time": "2026-04-04 01:32:16",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "CHW",
+                            "plat": "1",
+                            "time": "2026-04-05 01:31:07",
+                            "ttnt": "1439",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "KET",
+                            "plat": "2",
+                            "time": "2026-04-05 00:50:07",
+                            "ttnt": "1398",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "ISL",
+            "sta": "TAK",
+            "schedule": {
+                "ISL-TAK": {
+                    "curr_time": "2026-04-04 01:32:07",
+                    "sys_time": "2026-04-04 01:32:16",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "CHW",
+                            "plat": "1",
+                            "time": "2026-04-05 01:33:07",
+                            "ttnt": "1441",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "KET",
+                            "plat": "2",
+                            "time": "2026-04-05 00:49:07",
+                            "ttnt": "1397",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "ISL",
+            "sta": "SWH",
+            "schedule": {
+                "ISL-SWH": {
+                    "curr_time": "2026-04-04 01:32:07",
+                    "sys_time": "2026-04-04 01:32:16",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "CHW",
+                            "plat": "1",
+                            "time": "2026-04-05 01:35:07",
+                            "ttnt": "1443",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "KET",
+                            "plat": "2",
+                            "time": "2026-04-05 00:47:07",
+                            "ttnt": "1395",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "ISL",
+            "sta": "SKW",
+            "schedule": {
+                "ISL-SKW": {
+                    "curr_time": "2026-04-04 01:32:07",
+                    "sys_time": "2026-04-04 01:32:16",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "CHW",
+                            "plat": "1",
+                            "time": "2026-04-05 01:36:07",
+                            "ttnt": "1444",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "KET",
+                            "plat": "2",
+                            "time": "2026-04-05 00:45:07",
+                            "ttnt": "1393",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "ISL",
+            "sta": "HFC",
+            "schedule": {
+                "ISL-HFC": {
+                    "curr_time": "2026-04-04 01:32:13",
+                    "sys_time": "2026-04-04 01:32:21",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "CHW",
+                            "plat": "1",
+                            "time": "2026-04-05 01:39:13",
+                            "ttnt": "1447",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ],
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "ISL",
+            "sta": "CHW",
+            "schedule": {
+                "ISL-CHW": {
+                    "curr_time": "2026-04-04 01:32:13",
+                    "sys_time": "2026-04-04 01:32:21",
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "KET",
+                            "plat": "1",
+                            "time": "2026-04-05 00:42:13",
+                            "ttnt": "1390",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "KTL",
+            "sta": "WHA",
+            "schedule": {
+                "KTL-WHA": {
+                    "curr_time": "2026-04-04 01:32:15",
+                    "sys_time": "2026-04-04 01:32:21",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "TIK",
+                            "plat": "1",
+                            "time": "2026-04-05 01:01:15",
+                            "ttnt": "1409",
+                            "valid": "Y",
+                            "source": "-"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "KWT",
+                            "plat": "1",
+                            "time": "2026-04-05 01:03:15",
+                            "ttnt": "1411",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "KTL",
+            "sta": "HOM",
+            "schedule": {
+                "KTL-HOM": {
+                    "curr_time": "2026-04-04 01:32:15",
+                    "sys_time": "2026-04-04 01:32:21",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "TIK",
+                            "plat": "1",
+                            "time": "2026-04-05 01:02:15",
+                            "ttnt": "1410",
+                            "valid": "Y",
+                            "source": "-"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "KWT",
+                            "plat": "1",
+                            "time": "2026-04-05 01:04:15",
+                            "ttnt": "1412",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "WHA",
+                            "plat": "2",
+                            "time": "2026-04-05 01:46:15",
+                            "ttnt": "1454",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "KTL",
+            "sta": "YMT",
+            "schedule": {
+                "KTL-YMT": {
+                    "curr_time": "2026-04-04 01:32:15",
+                    "sys_time": "2026-04-04 01:32:26",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "TIK",
+                            "plat": "3",
+                            "time": "2026-04-05 01:04:15",
+                            "ttnt": "1412",
+                            "valid": "Y",
+                            "source": "-"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "KWT",
+                            "plat": "3",
+                            "time": "2026-04-05 01:06:15",
+                            "ttnt": "1414",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "WHA",
+                            "plat": "4",
+                            "time": "2026-04-05 01:43:15",
+                            "ttnt": "1451",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "KTL",
+            "sta": "MOK",
+            "schedule": {
+                "KTL-MOK": {
+                    "curr_time": "2026-04-04 01:32:15",
+                    "sys_time": "2026-04-04 01:32:26",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "TIK",
+                            "plat": "3",
+                            "time": "2026-04-05 01:06:15",
+                            "ttnt": "1414",
+                            "valid": "Y",
+                            "source": "-"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "KWT",
+                            "plat": "3",
+                            "time": "2026-04-05 01:08:15",
+                            "ttnt": "1416",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "WHA",
+                            "plat": "4",
+                            "time": "2026-04-05 01:41:15",
+                            "ttnt": "1449",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "KTL",
+            "sta": "PRE",
+            "schedule": {
+                "KTL-PRE": {
+                    "curr_time": "2026-04-04 01:32:15",
+                    "sys_time": "2026-04-04 01:32:26",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "TIK",
+                            "plat": "3",
+                            "time": "2026-04-05 01:07:15",
+                            "ttnt": "1415",
+                            "valid": "Y",
+                            "source": "-"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "KWT",
+                            "plat": "3",
+                            "time": "2026-04-05 01:09:15",
+                            "ttnt": "1417",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "WHA",
+                            "plat": "2",
+                            "time": "2026-04-05 01:40:15",
+                            "ttnt": "1448",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "KTL",
+            "sta": "SKM",
+            "schedule": {
+                "KTL-SKM": {
+                    "curr_time": "2026-04-04 01:32:15",
+                    "sys_time": "2026-04-04 01:32:26",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "TIK",
+                            "plat": "1",
+                            "time": "2026-04-05 01:09:15",
+                            "ttnt": "1417",
+                            "valid": "Y",
+                            "source": "-"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "KWT",
+                            "plat": "1",
+                            "time": "2026-04-05 01:11:15",
+                            "ttnt": "1419",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "WHA",
+                            "plat": "2",
+                            "time": "2026-04-05 01:38:15",
+                            "ttnt": "1446",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "KTL",
+            "sta": "KOT",
+            "schedule": {
+                "KTL-KOT": {
+                    "curr_time": "2026-04-04 01:32:15",
+                    "sys_time": "2026-04-04 01:32:21",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "TIK",
+                            "plat": "1",
+                            "time": "2026-04-05 01:11:15",
+                            "ttnt": "1419",
+                            "valid": "Y",
+                            "source": "-"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "KWT",
+                            "plat": "1",
+                            "time": "2026-04-05 01:13:15",
+                            "ttnt": "1421",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "WHA",
+                            "plat": "2",
+                            "time": "2026-04-05 01:36:15",
+                            "ttnt": "1444",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "KTL",
+            "sta": "LOF",
+            "schedule": {
+                "KTL-LOF": {
+                    "curr_time": "2026-04-04 01:32:15",
+                    "sys_time": "2026-04-04 01:32:26",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "TIK",
+                            "plat": "1",
+                            "time": "2026-04-05 01:13:15",
+                            "ttnt": "1421",
+                            "valid": "Y",
+                            "source": "-"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "KWT",
+                            "plat": "1",
+                            "time": "2026-04-05 01:15:15",
+                            "ttnt": "1423",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "WHA",
+                            "plat": "2",
+                            "time": "2026-04-05 01:34:15",
+                            "ttnt": "1442",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "KTL",
+            "sta": "WTS",
+            "schedule": {
+                "KTL-WTS": {
+                    "curr_time": "2026-04-04 01:32:15",
+                    "sys_time": "2026-04-04 01:32:26",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "TIK",
+                            "plat": "1",
+                            "time": "2026-04-05 01:15:15",
+                            "ttnt": "1423",
+                            "valid": "Y",
+                            "source": "-"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "KWT",
+                            "plat": "1",
+                            "time": "2026-04-05 01:17:15",
+                            "ttnt": "1425",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "WHA",
+                            "plat": "2",
+                            "time": "2026-04-05 01:32:15",
+                            "ttnt": "1440",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "KTL",
+            "sta": "DIH",
+            "schedule": {
+                "KTL-DIH": {
+                    "curr_time": "2026-04-04 01:32:15",
+                    "sys_time": "2026-04-04 01:32:21",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "TIK",
+                            "plat": "1",
+                            "time": "2026-04-05 01:16:15",
+                            "ttnt": "1424",
+                            "valid": "Y",
+                            "source": "-"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "KWT",
+                            "plat": "1",
+                            "time": "2026-04-05 01:18:15",
+                            "ttnt": "1426",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "WHA",
+                            "plat": "2",
+                            "time": "2026-04-05 01:31:15",
+                            "ttnt": "1439",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "KTL",
+            "sta": "CHH",
+            "schedule": {
+                "KTL-CHH": {
+                    "curr_time": "2026-04-04 01:32:15",
+                    "sys_time": "2026-04-04 01:32:26",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "TIK",
+                            "plat": "1",
+                            "time": "2026-04-05 01:18:15",
+                            "ttnt": "1426",
+                            "valid": "Y",
+                            "source": "-"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "KWT",
+                            "plat": "1",
+                            "time": "2026-04-05 01:20:15",
+                            "ttnt": "1428",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "WHA",
+                            "plat": "4",
+                            "time": "2026-04-05 01:29:15",
+                            "ttnt": "1437",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "KTL",
+            "sta": "KOB",
+            "schedule": {
+                "KTL-KOB": {
+                    "curr_time": "2026-04-04 01:32:15",
+                    "sys_time": "2026-04-04 01:32:21",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "TIK",
+                            "plat": "1",
+                            "time": "2026-04-05 01:21:15",
+                            "ttnt": "1429",
+                            "valid": "Y",
+                            "source": "-"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "KWT",
+                            "plat": "1",
+                            "time": "2026-04-05 01:23:15",
+                            "ttnt": "1431",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "WHA",
+                            "plat": "2",
+                            "time": "2026-04-05 01:26:15",
+                            "ttnt": "1434",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "KTL",
+            "sta": "NTK",
+            "schedule": {
+                "KTL-NTK": {
+                    "curr_time": "2026-04-04 01:32:15",
+                    "sys_time": "2026-04-04 01:32:21",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "TIK",
+                            "plat": "1",
+                            "time": "2026-04-05 01:23:15",
+                            "ttnt": "1431",
+                            "valid": "Y",
+                            "source": "-"
+                        },
+                        {
+                            "seq": "2",
+                            "dest": "KWT",
+                            "plat": "1",
+                            "time": "2026-04-05 01:25:15",
+                            "ttnt": "1433",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "WHA",
+                            "plat": "2",
+                            "time": "2026-04-05 01:24:15",
+                            "ttnt": "1432",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "KTL",
+            "sta": "KWT",
+            "schedule": {
+                "KTL-KWT": {
+                    "curr_time": "2026-04-04 01:32:15",
+                    "sys_time": "2026-04-04 01:32:21",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "TIK",
+                            "plat": "1",
+                            "time": "2026-04-05 01:25:15",
+                            "ttnt": "1433",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "WHA",
+                            "plat": "2",
+                            "time": "2026-04-05 01:22:15",
+                            "ttnt": "1430",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "KTL",
+            "sta": "LAT",
+            "schedule": {
+                "KTL-LAT": {
+                    "curr_time": "2026-04-04 01:32:15",
+                    "sys_time": "2026-04-04 01:32:26",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "TIK",
+                            "plat": "1",
+                            "time": "2026-04-05 01:26:15",
+                            "ttnt": "1434",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "WHA",
+                            "plat": "2",
+                            "time": "2026-04-05 01:21:15",
+                            "ttnt": "1429",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "KTL",
+            "sta": "YAT",
+            "schedule": {
+                "KTL-YAT": {
+                    "curr_time": "2026-04-04 01:32:15",
+                    "sys_time": "2026-04-04 01:32:26",
+                    "UP": [
+                        {
+                            "seq": "1",
+                            "dest": "TIK",
+                            "plat": "1",
+                            "time": "2026-04-05 01:28:15",
+                            "ttnt": "1436",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ],
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "WHA",
+                            "plat": "2",
+                            "time": "2026-04-05 01:18:15",
+                            "ttnt": "1426",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "KTL",
+            "sta": "TIK",
+            "schedule": {
+                "KTL-TIK": {
+                    "curr_time": "2026-04-04 01:32:15",
+                    "sys_time": "2026-04-04 01:32:26",
+                    "DOWN": [
+                        {
+                            "seq": "1",
+                            "dest": "WHA",
+                            "plat": "2",
+                            "time": "2026-04-05 01:16:15",
+                            "ttnt": "1424",
+                            "valid": "Y",
+                            "source": "-"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "line": "DRL",
+            "sta": "SUN",
+            "schedule": {
+                "DRL-SUN": {
+                    "curr_time": "2026-04-04 01:32:23",
+                    "sys_time": "2026-04-04 01:32:26",
+                    "DOWN": []
+                }
+            }
+        },
+        {
+            "line": "DRL",
+            "sta": "DIS",
+            "schedule": {
+                "DRL-DIS": {
+                    "curr_time": "2026-04-04 01:32:23",
+                    "sys_time": "2026-04-04 01:32:26",
+                    "UP": []
+                }
+            }
+        }
+    ]
+}
