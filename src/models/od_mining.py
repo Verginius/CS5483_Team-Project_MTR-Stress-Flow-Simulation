@@ -45,7 +45,7 @@ class ODMiningXGBoost:
                     continue
                 
                 # We need to extract shortest path and transfers from the graph
-                # Assuming simple edges weight=1 for time proxy; in real scenario use travel_time
+                # The graph's 'weight' now represents actual travel time in minutes.
                 orig_nodes = [n for n in self.G.nodes if n.startswith(origin + '_')]
                 dest_nodes = [n for n in self.G.nodes if n.startswith(dest + '_')]
                 
@@ -64,28 +64,34 @@ class ODMiningXGBoost:
                             pass
                             
                 if best_path is None:
-                    path_len = 999
+                    travel_time = 999
                     transfers = 0
                 else:
-                    path_len = min_len
+                    travel_time = min_len
                     transfers = self._estimate_transfers(best_path)
                 
                 orig_data = self.stations_df[self.stations_df['Station Code'] == origin].iloc[0]
                 dest_data = self.stations_df[self.stations_df['Station Code'] == dest].iloc[0]
                 
-                od_records.append({
+                poi_categories = ['GOV', 'CUF', 'TRS', 'RSF', 'CMF', 'UTI', 'BUS', 'MUF', 'SCH', 'AMD', 'TRH', 'REM', 'HNC', 'TRF', 'COM', 'BGD']
+                
+                record = {
                     'Origin': origin,
                     'Destination': dest,
                     'O_Cluster': orig_data['Cluster_Name'],
                     'D_Cluster': dest_data['Cluster_Name'],
-                    'O_POI_Total': orig_data['Total_POI'],
-                    'D_POI_Total': dest_data['Total_POI'],
-                    'Path_Length': path_len,
+                    'Travel_Time_Min': travel_time,
                     'Transfers': transfers,
-                    # Synthetic baseline target: Gravity Model proxy
-                    # Flow = (O_POI * D_POI) / (Path_Length^2)
-                    'Target_Flow_Baseline': (orig_data['Total_POI'] * dest_data['Total_POI']) / ((path_len + 1)**2)
-                })
+                    # Synthetic baseline target: Gravity Model using travel time
+                    # Flow = (O_POI * D_POI) / (Travel_Time^2)
+                    'Target_Flow_Baseline': (orig_data['Total_POI'] * dest_data['Total_POI']) / ((travel_time + 1)**2)
+                }
+                
+                for c in poi_categories:
+                    record[f'O_{c}'] = orig_data[c]
+                    record[f'D_{c}'] = dest_data[c]
+                    
+                od_records.append(record)
         
         self.od_df = pd.DataFrame(od_records)
         logging.info(f"Generated {len(self.od_df)} OD pairs.")
@@ -112,7 +118,10 @@ class ODMiningXGBoost:
         df['O_Cluster_Enc'] = le.fit_transform(df['O_Cluster'])
         df['D_Cluster_Enc'] = le.transform(df['D_Cluster'])
         
-        features = ['O_Cluster_Enc', 'D_Cluster_Enc', 'O_POI_Total', 'D_POI_Total', 'Path_Length', 'Transfers']
+        poi_categories = ['GOV', 'CUF', 'TRS', 'RSF', 'CMF', 'UTI', 'BUS', 'MUF', 'SCH', 'AMD', 'TRH', 'REM', 'HNC', 'TRF', 'COM', 'BGD']
+        poi_features = [f'O_{c}' for c in poi_categories] + [f'D_{c}' for c in poi_categories]
+        
+        features = ['O_Cluster_Enc', 'D_Cluster_Enc', 'Travel_Time_Min', 'Transfers'] + poi_features
         X = df[features]
         y = df['Target_Flow_Baseline']
         
@@ -134,11 +143,17 @@ class ODMiningXGBoost:
         # Predict Flow
         self.od_df['Predicted_Flow'] = model.predict(X)
         
-        # Plot Feature Importance
-        xgb.plot_importance(model)
-        plt.title('XGBoost Feature Importance for OD Prediction')
+        # Plot Feature Importance (Improved Aesthetics)
+        plt.style.use('ggplot')
+        fig, ax = plt.subplots(figsize=(12, 8))
+        xgb.plot_importance(model, ax=ax, max_num_features=20, height=0.6, 
+                            color='#4C72B0', edgecolor='none', grid=False)
+        ax.set_title('Top 20 Features Importance for OD Flow Prediction', fontsize=16, fontweight='bold', pad=15)
+        ax.set_xlabel('F-Score (Importance Weight)', fontsize=13)
+        ax.set_ylabel('Features', fontsize=13)
+        ax.tick_params(axis='both', labelsize=11)
         plt.tight_layout()
-        plt.savefig(os.path.join(self.output_dir, 'xgboost_feature_importance.png'))
+        plt.savefig(os.path.join(self.output_dir, 'xgboost_feature_importance.png'), dpi=300, bbox_inches='tight')
         logging.info("Saved feature importance plot.")
         
         # Save OD Matrix

@@ -1105,7 +1105,7 @@ graph [
     source 0
     target 19
     edge_type "running"
-    weight 2
+    weight 0.07
     capacity 2500
   ]
   edge [
@@ -1133,14 +1133,14 @@ graph [
     source 1
     target 8
     edge_type "running"
-    weight 2
+    weight 0.07
     capacity 2500
   ]
   edge [
     source 1
     target 110
     edge_type "running"
-    weight 2
+    weight 0.06
     capacity 2500
   ]
   edge [
@@ -1168,7 +1168,7 @@ graph [
     source 2
     target 67
     edge_type "running"
-    weight 2
+    weight 0.26
     capacity 2500
   ]
   edge [
@@ -1196,28 +1196,28 @@ graph [
     source 3
     target 9
     edge_type "running"
-    weight 2
+    weight 0.24
     capacity 2500
   ]
   edge [
     source 3
     target 100
     edge_type "running"
-    weight 2
+    weight 0.1
     capacity 2500
   ]
   edge [
     source 4
     target 102
     edge_type "running"
-    weight 2
+    weight 2.26
     capacity 2500
   ]
   edge [
     source 4
     target 6
     edge_type "running"
-    weight 2
+    weight 1.2
     capacity 2500
   ]
   edge [
@@ -1238,21 +1238,21 @@ graph [
     source 6
     target 4
     edge_type "running"
-    weight 2
+    weight 1.01
     capacity 2500
   ]
   edge [
     source 7
     target 110
     edge_type "running"
-    weight 2
+    weight 0.1
     capacity 2500
   ]
   edge [
     source 7
     target 93
     edge_type "running"
-    weight 2
+    weight 0.08
     capacity 2500
   ]
   edge [
@@ -1266,15 +1266,25 @@ graph [
     source 8
     target 77
     edge_type "running"
-    weight 2
+    weight 0.1
     capacity 2500
   ]
   edge [
     source 8
     target 1
     edge_type "running"
-    weight 2
+    weight 0.1
     capacity 2500
+  ]
+  edge [
+    source 8
+    target 28
+    weight 5.0
+  ]
+  edge [
+    source 8
+    target 29
+    weight 5.0
   ]
   edge [
     source 9
@@ -1287,21 +1297,31 @@ graph [
     source 9
     target 3
     edge_type "running"
-    weight 2
+    weight 0.13
     capacity 2500
+  ]
+  edge [
+    source 9
+    target 28
+    weight 5.0
+  ]
+  edge [
+    source 9
+    target 29
+    weight 5.0
   ]
   edge [
     source 10
     target 15
     edge_type "running"
-    weight 2
+    weight 0.09
     capacity 2500
   ]
   edge [
     source 10
     target 37
     edge_type "running"
-    weight 2
+    weight 0.11
     capacity 2500
   ]
   edge [
@@ -1315,14 +1335,14 @@ graph [
     source 12
     target 74
     edge_type "running"
-    weight 2
+    weight 0.07
     capacity 2500
   ]
   edge [
     source 12
     target 83
     edge_type "running"
-    weight 2
+    weight 0.02
     capacity 2500
   ]
   edge [
@@ -1336,21 +1356,21 @@ graph [
     source 13
     target 92
     edge_type "running"
-    weight 2
+    weight 0.19
     capacity 2500
   ]
   edge [
     source 14
     target 82
     edge_type "running"
-    weight 2
+    weight 0.09
     capacity 2500
   ]
   edge [
     source 14
     target 49
     edge_type "running"
-    weight 2
+    weight 0.07
     capacity 2500
   ]
   edge [
@@ -1364,14 +1384,14 @@ graph [
     source 15
     target 114
     edge_type "running"
-    weight 2
+    weight 0.08
     capacity 2500
   ]
   edge [
     source 15
     target 10
     edge_type "running"
-    weight 2
+    weight 0.09
     capacity 2500
   ]
   edge [
@@ -1385,14 +1405,14 @@ graph [
     source 16
     target 26
     edge_type "running"
-    weight 2
+    weight 0.05
     capacity 2500
   ]
   edge [
     source 16
     target 35
     edge_type "running"
-    weight 2
+    weight 0.07
     capacity 2500
   ]
   edge [
@@ -1406,7 +1426,7 @@ graph [
     source 18
     target 33
     edge_type "running"
-    weight 2
+    weight 0.08
     capacity 2500
   ]
   edge [
@@ -1420,98 +1440,98 @@ graph [
     source 19
     target 0
     edge_type "running"
-    weight 2
+    weight 0.08
     capacity 2500
   ]
   edge [
     source 19
     target 32
     edge_type "running"
-    weight 2
+    weight 0.07
     capacity 2500
   ]
   edge [
     source 20
     target 107
     edge_type "running"
-    weight 2
+    weight 0.08
     capacity 2500
   ]
   edge [
     source 20
     target 75
     edge_type "running"
-    weight 2
+    weight 0.08
     capacity 2500
   ]
   edge [
     source 21
     target 93
     edge_type "running"
-    weight 2
+    weight 0.06
     capacity 2500
   ]
   edge [
     source 21
     target 64
     edge_type "running"
-    weight 2
+    weight 0.09
     capacity 2500
   ]
   edge [
     source 22
     target 76
     edge_type "running"
-    weight 2
+    weight 0.09
     capacity 2500
   ]
   edge [
     source 22
     target 109
     edge_type "running"
-    weight 2
+    weight 0.08
     capacity 2500
   ]
   edge [
     source 23
     target 97
     edge_type "running"
-    weight 2
+    weight 0.12
     capacity 2500
   ]
   edge [
     source 23
     target 69
     edge_type "running"
-    weight 2
+    weight 0.12
     capacity 2500
   ]
   edge [
     source 24
     target 61
     edge_type "running"
-    weight 2
+    weight 1.04
     capacity 2500
   ]
   edge [
     source 24
     target 99
     edge_type "running"
-    weight 2
+    weight 0.59
     capacity 2500
   ]
   edge [
     source 25
     target 80
     edge_type "running"
-    weight 2
+    weight 0.1
     capacity 2500
   ]
   edge [
     source 25
     target 11
     edge_type "running"
-    weight 2
+    weight 0.06
     capacity 2500
   ]
   edge [
@@ -1525,21 +1545,21 @@ graph [
     source 26
     target 16
     edge_type "running"
-    weight 2
+    weight 0.05
     capacity 2500
   ]
   edge [
     source 27
     target 36
     edge_type "running"
-    weight 2
+    weight 0.06
     capacity 2500
   ]
   edge [
     source 27
     target 88
     edge_type "running"
-    weight 2
+    weight 0.08
     capacity 2500
   ]
   edge [
@@ -1553,8 +1573,18 @@ graph [
     source 28
     target 40
     edge_type "running"
-    weight 2
+    weight 1.02
     capacity 2500
+  ]
+  edge [
+    source 28
+    target 8
+    weight 5.0
+  ]
+  edge [
+    source 28
+    target 9
+    weight 5.0
   ]
   edge [
     source 29
@@ -1567,8 +1597,18 @@ graph [
     source 29
     target 41
     edge_type "running"
-    weight 2
+    weight 1.51
     capacity 2500
+  ]
+  edge [
+    source 29
+    target 8
+    weight 5.0
+  ]
+  edge [
+    source 29
+    target 9
+    weight 5.0
   ]
   edge [
     source 30
@@ -1581,14 +1621,14 @@ graph [
     source 30
     target 112
     edge_type "running"
-    weight 2
+    weight 0.04
     capacity 2500
   ]
   edge [
     source 30
     target 117
     edge_type "running"
-    weight 2
+    weight 0.07
     capacity 2500
   ]
   edge [
@@ -1609,7 +1649,7 @@ graph [
     source 31
     target 33
     edge_type "running"
-    weight 2
+    weight 0.08
     capacity 2500
   ]
   edge [
@@ -1623,14 +1663,14 @@ graph [
     source 32
     target 19
     edge_type "running"
-    weight 2
+    weight 0.08
     capacity 2500
   ]
   edge [
     source 32
     target 58
     edge_type "running"
-    weight 2
+    weight 0.08
     capacity 2500
   ]
   edge [
@@ -1644,28 +1684,28 @@ graph [
     source 33
     target 31
     edge_type "running"
-    weight 2
+    weight 0.12
     capacity 2500
   ]
   edge [
     source 33
     target 18
     edge_type "running"
-    weight 2
+    weight 0.28
     capacity 2500
   ]
   edge [
     source 34
     target 100
     edge_type "running"
-    weight 2
+    weight 0.15
     capacity 2500
   ]
   edge [
     source 34
     target 118
     edge_type "running"
-    weight 2
+    weight 0.18
     capacity 2500
   ]
   edge [
@@ -1679,28 +1719,28 @@ graph [
     source 35
     target 86
     edge_type "running"
-    weight 2
+    weight 0.05
     capacity 2500
   ]
   edge [
     source 36
     target 27
     edge_type "running"
-    weight 2
+    weight 0.11
     capacity 2500
   ]
   edge [
     source 37
     target 10
     edge_type "running"
-    weight 2
+    weight 0.07
     capacity 2500
   ]
   edge [
     source 37
     target 66
     edge_type "running"
-    weight 2
+    weight 0.11
     capacity 2500
   ]
   edge [
@@ -1714,14 +1754,14 @@ graph [
     source 38
     target 58
     edge_type "running"
-    weight 2
+    weight 0.11
     capacity 2500
   ]
   edge [
     source 38
     target 91
     edge_type "running"
-    weight 2
+    weight 0.09
     capacity 2500
   ]
   edge [
@@ -1735,14 +1775,14 @@ graph [
     source 39
     target 79
     edge_type "running"
-    weight 2
+    weight 0.1
     capacity 2500
   ]
   edge [
     source 39
     target 53
     edge_type "running"
-    weight 2
+    weight 0.1
     capacity 2500
   ]
   edge [
@@ -1756,14 +1796,14 @@ graph [
     source 40
     target 28
     edge_type "running"
-    weight 2
+    weight 2.0
     capacity 2500
   ]
   edge [
     source 40
     target 102
     edge_type "running"
-    weight 2
+    weight 1.41
     capacity 2500
   ]
   edge [
@@ -1784,63 +1824,63 @@ graph [
     source 41
     target 68
     edge_type "running"
-    weight 2
+    weight 0.35
     capacity 2500
   ]
   edge [
     source 42
     target 108
     edge_type "running"
-    weight 2
+    weight 0.05
     capacity 2500
   ]
   edge [
     source 42
     target 119
     edge_type "running"
-    weight 2
+    weight 0.08
     capacity 2500
   ]
   edge [
     source 43
     target 47
     edge_type "running"
-    weight 2
+    weight 0.09
     capacity 2500
   ]
   edge [
     source 43
     target 44
     edge_type "running"
-    weight 2
+    weight 0.07
     capacity 2500
   ]
   edge [
     source 44
     target 43
     edge_type "running"
-    weight 2
+    weight 0.27
     capacity 2500
   ]
   edge [
     source 44
     target 106
     edge_type "running"
-    weight 2
+    weight 0.1
     capacity 2500
   ]
   edge [
     source 45
     target 66
     edge_type "running"
-    weight 2
+    weight 0.12
     capacity 2500
   ]
   edge [
     source 45
     target 48
     edge_type "running"
-    weight 2
+    weight 0.1
     capacity 2500
   ]
   edge [
@@ -1854,14 +1894,14 @@ graph [
     source 46
     target 62
     edge_type "running"
-    weight 2
+    weight 0.51
     capacity 2500
   ]
   edge [
     source 46
     target 103
     edge_type "running"
-    weight 2
+    weight 0.2
     capacity 2500
   ]
   edge [
@@ -1875,105 +1915,105 @@ graph [
     source 47
     target 57
     edge_type "running"
-    weight 2
+    weight 0.09
     capacity 2500
   ]
   edge [
     source 47
     target 43
     edge_type "running"
-    weight 2
+    weight 0.12
     capacity 2500
   ]
   edge [
     source 48
     target 45
     edge_type "running"
-    weight 2
+    weight 0.11
     capacity 2500
   ]
   edge [
     source 48
     target 115
     edge_type "running"
-    weight 2
+    weight 0.09
     capacity 2500
   ]
   edge [
     source 49
     target 14
     edge_type "running"
-    weight 2
+    weight 0.11
     capacity 2500
   ]
   edge [
     source 49
     target 57
     edge_type "running"
-    weight 2
+    weight 0.1
     capacity 2500
   ]
   edge [
     source 50
     target 111
     edge_type "running"
-    weight 2
+    weight 1.04
     capacity 2500
   ]
   edge [
     source 50
     target 81
     edge_type "running"
-    weight 2
+    weight 0.11
     capacity 2500
   ]
   edge [
     source 51
     target 97
     edge_type "running"
-    weight 2
+    weight 0.05
     capacity 2500
   ]
   edge [
     source 52
     target 75
     edge_type "running"
-    weight 2
+    weight 0.04
     capacity 2500
   ]
   edge [
     source 53
     target 39
     edge_type "running"
-    weight 2
+    weight 0.08
     capacity 2500
   ]
   edge [
     source 53
     target 114
     edge_type "running"
-    weight 2
+    weight 0.1
     capacity 2500
   ]
   edge [
     source 54
     target 119
     edge_type "running"
-    weight 2
+    weight 0.02
     capacity 2500
   ]
   edge [
     source 54
     target 96
     edge_type "running"
-    weight 2
+    weight 0.02
     capacity 2500
   ]
   edge [
     source 55
     target 75
     edge_type "running"
-    weight 2
+    weight 0.06
     capacity 2500
   ]
   edge [
@@ -1994,7 +2034,7 @@ graph [
     source 56
     target 108
     edge_type "running"
-    weight 2
+    weight 0.04
     capacity 2500
   ]
   edge [
@@ -2008,28 +2048,28 @@ graph [
     source 57
     target 49
     edge_type "running"
-    weight 2
+    weight 0.09
     capacity 2500
   ]
   edge [
     source 57
     target 47
     edge_type "running"
-    weight 2
+    weight 0.12
     capacity 2500
   ]
   edge [
     source 58
     target 32
     edge_type "running"
-    weight 2
+    weight 0.08
     capacity 2500
   ]
   edge [
     source 58
     target 38
     edge_type "running"
-    weight 2
+    weight 0.07
     capacity 2500
   ]
   edge [
@@ -2043,14 +2083,14 @@ graph [
     source 59
     target 117
     edge_type "running"
-    weight 2
+    weight 0.08
     capacity 2500
   ]
   edge [
     source 59
     target 70
     edge_type "running"
-    weight 2
+    weight 0.09
     capacity 2500
   ]
   edge [
@@ -2064,14 +2104,14 @@ graph [
     source 60
     target 118
     edge_type "running"
-    weight 2
+    weight 0.07
     capacity 2500
   ]
   edge [
     source 60
     target 71
     edge_type "running"
-    weight 2
+    weight 0.23
     capacity 2500
   ]
   edge [
@@ -2085,7 +2125,7 @@ graph [
     source 61
     target 24
     edge_type "running"
-    weight 2
+    weight 0.5
     capacity 2500
   ]
   edge [
@@ -2099,14 +2139,14 @@ graph [
     source 62
     target 68
     edge_type "running"
-    weight 2
+    weight 0.18
     capacity 2500
   ]
   edge [
     source 62
     target 46
     edge_type "running"
-    weight 2
+    weight 0.29
     capacity 2500
   ]
   edge [
@@ -2141,14 +2181,14 @@ graph [
     source 64
     target 21
     edge_type "running"
-    weight 2
+    weight 0.08
     capacity 2500
   ]
   edge [
     source 64
     target 72
     edge_type "running"
-    weight 2
+    weight 0.1
     capacity 2500
   ]
   edge [
@@ -2162,56 +2202,56 @@ graph [
     source 65
     target 73
     edge_type "running"
-    weight 2
+    weight 0.24
     capacity 2500
   ]
   edge [
     source 66
     target 37
     edge_type "running"
-    weight 2
+    weight 0.08
     capacity 2500
   ]
   edge [
     source 66
     target 45
     edge_type "running"
-    weight 2
+    weight 0.15
     capacity 2500
   ]
   edge [
     source 67
     target 2
     edge_type "running"
-    weight 2
+    weight 0.25
     capacity 2500
   ]
   edge [
     source 67
     target 111
     edge_type "running"
-    weight 2
+    weight 0.66
     capacity 2500
   ]
   edge [
     source 68
     target 41
     edge_type "running"
-    weight 2
+    weight 0.14
     capacity 2500
   ]
   edge [
     source 68
     target 62
     edge_type "running"
-    weight 2
+    weight 0.2
     capacity 2500
   ]
   edge [
     source 69
     target 23
     edge_type "running"
-    weight 2
+    weight 0.22
     capacity 2500
   ]
   edge [
@@ -2225,14 +2265,14 @@ graph [
     source 70
     target 59
     edge_type "running"
-    weight 2
+    weight 0.08
     capacity 2500
   ]
   edge [
     source 70
     target 79
     edge_type "running"
-    weight 2
+    weight 0.1
     capacity 2500
   ]
   edge [
@@ -2246,14 +2286,14 @@ graph [
     source 71
     target 60
     edge_type "running"
-    weight 2
+    weight 0.11
     capacity 2500
   ]
   edge [
     source 71
     target 82
     edge_type "running"
-    weight 2
+    weight 0.15
     capacity 2500
   ]
   edge [
@@ -2267,14 +2307,14 @@ graph [
     source 72
     target 64
     edge_type "running"
-    weight 2
+    weight 0.07
     capacity 2500
   ]
   edge [
     source 72
     target 89
     edge_type "running"
-    weight 2
+    weight 0.1
     capacity 2500
   ]
   edge [
@@ -2288,84 +2328,84 @@ graph [
     source 73
     target 65
     edge_type "running"
-    weight 2
+    weight 0.05
     capacity 2500
   ]
   edge [
     source 73
     target 116
     edge_type "running"
-    weight 2
+    weight 0.1
     capacity 2500
   ]
   edge [
     source 74
     target 99
     edge_type "running"
-    weight 2
+    weight 0.02
     capacity 2500
   ]
   edge [
     source 74
     target 12
     edge_type "running"
-    weight 2
+    weight 0.03
     capacity 2500
   ]
   edge [
     source 75
     target 20
     edge_type "running"
-    weight 2
+    weight 0.09
     capacity 2500
   ]
   edge [
     source 75
     target 55
     edge_type "running"
-    weight 2
+    weight 0.07
     capacity 2500
   ]
   edge [
     source 75
     target 52
     edge_type "running"
-    weight 2
+    weight 0.05
     capacity 2500
   ]
   edge [
     source 76
     target 91
     edge_type "running"
-    weight 2
+    weight 0.09
     capacity 2500
   ]
   edge [
     source 76
     target 22
     edge_type "running"
-    weight 2
+    weight 0.09
     capacity 2500
   ]
   edge [
     source 77
     target 88
     edge_type "running"
-    weight 2
+    weight 0.08
     capacity 2500
   ]
   edge [
     source 77
     target 8
     edge_type "running"
-    weight 2
+    weight 0.1
     capacity 2500
   ]
   edge [
     source 78
     target 96
     edge_type "running"
-    weight 2
+    weight 0.14
     capacity 2500
   ]
   edge [
@@ -2379,49 +2419,49 @@ graph [
     source 79
     target 70
     edge_type "running"
-    weight 2
+    weight 0.09
     capacity 2500
   ]
   edge [
     source 79
     target 39
     edge_type "running"
-    weight 2
+    weight 0.07
     capacity 2500
   ]
   edge [
     source 80
     target 87
     edge_type "running"
-    weight 2
+    weight 0.08
     capacity 2500
   ]
   edge [
     source 80
     target 25
     edge_type "running"
-    weight 2
+    weight 0.12
     capacity 2500
   ]
   edge [
     source 81
     target 50
     edge_type "running"
-    weight 2
+    weight 0.27
     capacity 2500
   ]
   edge [
     source 82
     target 71
     edge_type "running"
-    weight 2
+    weight 0.15
     capacity 2500
   ]
   edge [
     source 82
     target 14
     edge_type "running"
-    weight 2
+    weight 0.09
     capacity 2500
   ]
   edge [
@@ -2435,7 +2475,7 @@ graph [
     source 83
     target 13
     edge_type "running"
-    weight 2
+    weight 0.03
     capacity 2500
   ]
   edge [
@@ -2463,84 +2503,84 @@ graph [
     source 85
     target 103
     edge_type "running"
-    weight 2
+    weight 0.08
     capacity 2500
   ]
   edge [
     source 85
     target 104
     edge_type "running"
-    weight 2
+    weight 0.08
     capacity 2500
   ]
   edge [
     source 86
     target 35
     edge_type "running"
-    weight 2
+    weight 0.02
     capacity 2500
   ]
   edge [
     source 86
     target 98
     edge_type "running"
-    weight 2
+    weight 0.02
     capacity 2500
   ]
   edge [
     source 87
     target 89
     edge_type "running"
-    weight 2
+    weight 0.05
     capacity 2500
   ]
   edge [
     source 87
     target 80
     edge_type "running"
-    weight 2
+    weight 0.09
     capacity 2500
   ]
   edge [
     source 88
     target 27
     edge_type "running"
-    weight 2
+    weight 0.06
     capacity 2500
   ]
   edge [
     source 88
     target 77
     edge_type "running"
-    weight 2
+    weight 0.11
     capacity 2500
   ]
   edge [
     source 89
     target 72
     edge_type "running"
-    weight 2
+    weight 0.08
     capacity 2500
   ]
   edge [
     source 89
     target 87
     edge_type "running"
-    weight 2
+    weight 0.1
     capacity 2500
   ]
   edge [
     source 90
     target 109
     edge_type "running"
-    weight 2
+    weight 0.07
     capacity 2500
   ]
   edge [
     source 90
     target 107
     edge_type "running"
-    weight 2
+    weight 0.2
     capacity 2500
   ]
   edge [
@@ -2554,14 +2594,14 @@ graph [
     source 91
     target 38
     edge_type "running"
-    weight 2
+    weight 0.09
     capacity 2500
   ]
   edge [
     source 91
     target 76
     edge_type "running"
-    weight 2
+    weight 0.11
     capacity 2500
   ]
   edge [
@@ -2575,7 +2615,7 @@ graph [
     source 92
     target 13
     edge_type "running"
-    weight 2
+    weight 0.14
     capacity 2500
   ]
   edge [
@@ -2589,14 +2629,14 @@ graph [
     source 93
     target 7
     edge_type "running"
-    weight 2
+    weight 0.08
     capacity 2500
   ]
   edge [
     source 93
     target 21
     edge_type "running"
-    weight 2
+    weight 0.07
     capacity 2500
   ]
   edge [
@@ -2610,7 +2650,7 @@ graph [
     source 94
     target 115
     edge_type "running"
-    weight 2
+    weight 0.13
     capacity 2500
   ]
   edge [
@@ -2624,98 +2664,98 @@ graph [
     source 95
     target 116
     edge_type "running"
-    weight 2
+    weight 0.12
     capacity 2500
   ]
   edge [
     source 95
     target 97
     edge_type "running"
-    weight 2
+    weight 0.14
     capacity 2500
   ]
   edge [
     source 96
     target 54
     edge_type "running"
-    weight 2
+    weight 0.05
     capacity 2500
   ]
   edge [
     source 96
     target 78
     edge_type "running"
-    weight 2
+    weight 0.44
     capacity 2500
   ]
   edge [
     source 97
     target 95
     edge_type "running"
-    weight 2
+    weight 0.16
     capacity 2500
   ]
   edge [
     source 97
     target 23
     edge_type "running"
-    weight 2
+    weight 0.2
     capacity 2500
   ]
   edge [
     source 97
     target 51
     edge_type "running"
-    weight 2
+    weight 0.05
     capacity 2500
   ]
   edge [
     source 98
     target 86
     edge_type "running"
-    weight 2
+    weight 0.04
     capacity 2500
   ]
   edge [
     source 98
     target 31
     edge_type "running"
-    weight 2
+    weight 0.02
     capacity 2500
   ]
   edge [
     source 99
     target 24
     edge_type "running"
-    weight 2
+    weight 0.51
     capacity 2500
   ]
   edge [
     source 99
     target 74
     edge_type "running"
-    weight 2
+    weight 0.59
     capacity 2500
   ]
   edge [
     source 100
     target 3
     edge_type "running"
-    weight 2
+    weight 0.1
     capacity 2500
   ]
   edge [
     source 100
     target 34
     edge_type "running"
-    weight 2
+    weight 0.08
     capacity 2500
   ]
   edge [
     source 101
     target 106
     edge_type "running"
-    weight 2
+    weight 0.08
     capacity 2500
   ]
   edge [
@@ -2729,14 +2769,14 @@ graph [
     source 102
     target 40
     edge_type "running"
-    weight 2
+    weight 1.5
     capacity 2500
   ]
   edge [
     source 102
     target 4
     edge_type "running"
-    weight 2
+    weight 1.1
     capacity 2500
   ]
   edge [
@@ -2750,21 +2790,21 @@ graph [
     source 103
     target 46
     edge_type "running"
-    weight 2
+    weight 0.45
     capacity 2500
   ]
   edge [
     source 103
     target 85
     edge_type "running"
-    weight 2
+    weight 0.09
     capacity 2500
   ]
   edge [
     source 104
     target 85
     edge_type "running"
-    weight 2
+    weight 0.08
     capacity 2500
   ]
   edge [
@@ -2778,112 +2818,112 @@ graph [
     source 106
     target 44
     edge_type "running"
-    weight 2
+    weight 0.11
     capacity 2500
   ]
   edge [
     source 106
     target 101
     edge_type "running"
-    weight 2
+    weight 0.09
     capacity 2500
   ]
   edge [
     source 107
     target 90
     edge_type "running"
-    weight 2
+    weight 0.1
     capacity 2500
   ]
   edge [
     source 107
     target 20
     edge_type "running"
-    weight 2
+    weight 0.09
     capacity 2500
   ]
   edge [
     source 108
     target 56
     edge_type "running"
-    weight 2
+    weight 0.04
     capacity 2500
   ]
   edge [
     source 108
     target 42
     edge_type "running"
-    weight 2
+    weight 0.06
     capacity 2500
   ]
   edge [
     source 109
     target 22
     edge_type "running"
-    weight 2
+    weight 0.1
     capacity 2500
   ]
   edge [
     source 109
     target 90
     edge_type "running"
-    weight 2
+    weight 0.07
     capacity 2500
   ]
   edge [
     source 110
     target 1
     edge_type "running"
-    weight 2
+    weight 0.1
     capacity 2500
   ]
   edge [
     source 110
     target 7
     edge_type "running"
-    weight 2
+    weight 0.08
     capacity 2500
   ]
   edge [
     source 111
     target 67
     edge_type "running"
-    weight 2
+    weight 0.59
     capacity 2500
   ]
   edge [
     source 111
     target 50
     edge_type "running"
-    weight 2
+    weight 0.95
     capacity 2500
   ]
   edge [
     source 112
     target 30
     edge_type "running"
-    weight 2
+    weight 0.08
     capacity 2500
   ]
   edge [
     source 113
     target 61
     edge_type "running"
-    weight 2
+    weight 1.87
     capacity 2500
   ]
   edge [
     source 114
     target 53
     edge_type "running"
-    weight 2
+    weight 0.08
     capacity 2500
   ]
   edge [
     source 114
     target 15
     edge_type "running"
-    weight 2
+    weight 0.09
     capacity 2500
   ]
   edge [
@@ -2897,14 +2937,14 @@ graph [
     source 115
     target 48
     edge_type "running"
-    weight 2
+    weight 0.1
     capacity 2500
   ]
   edge [
     source 115
     target 94
     edge_type "running"
-    weight 2
+    weight 0.11
     capacity 2500
   ]
   edge [
@@ -2918,14 +2958,14 @@ graph [
     source 116
     target 73
     edge_type "running"
-    weight 2
+    weight 0.11
     capacity 2500
   ]
   edge [
     source 116
     target 95
     edge_type "running"
-    weight 2
+    weight 0.16
     capacity 2500
   ]
   edge [
@@ -2939,14 +2979,14 @@ graph [
     source 117
     target 30
     edge_type "running"
-    weight 2
+    weight 0.08
     capacity 2500
   ]
   edge [
     source 117
     target 59
     edge_type "running"
-    weight 2
+    weight 0.1
     capacity 2500
   ]
   edge [
@@ -2960,28 +3000,28 @@ graph [
     source 118
     target 34
     edge_type "running"
-    weight 2
+    weight 0.1
     capacity 2500
   ]
   edge [
     source 118
     target 60
     edge_type "running"
-    weight 2
+    weight 0.27
     capacity 2500
   ]
   edge [
     source 119
     target 42
     edge_type "running"
-    weight 2
+    weight 0.03
     capacity 2500
   ]
   edge [
     source 119
     target 54
     edge_type "running"
-    weight 2
+    weight 0.34
     capacity 2500
   ]
 ]
