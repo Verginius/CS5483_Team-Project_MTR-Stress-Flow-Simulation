@@ -78,8 +78,8 @@ class ODMiningXGBoost:
                 record = {
                     'Origin': origin,
                     'Destination': dest,
-                    'O_Cluster': orig_data['Cluster_Name'],
-                    'D_Cluster': dest_data['Cluster_Name'],
+                    'O_Cluster': orig_data['cluster_name'],
+                    'D_Cluster': dest_data['cluster_name'],
                     'Travel_Time_Min': travel_time,
                     'Transfers': transfers,
                     # Synthetic baseline target: Gravity Model using travel time

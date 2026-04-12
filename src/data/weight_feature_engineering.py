@@ -28,27 +28,36 @@ def process_features():
     
     # K-Means Clustering
     print("Applying K-Means clustering...")
-    kmeans = KMeans(n_clusters=3, random_state=42, n_init=10)
-    df_poi['Cluster'] = kmeans.fit_predict(scaled_features)
+    kmeans = KMeans(n_clusters=4, random_state=42, n_init=10)
+    df_poi['cluster'] = kmeans.fit_predict(scaled_features)
     
-    # Assign cluster names intuitively (Optional, generic for now)
-    cluster_names = {0: 'Mixed', 1: 'Residential', 2: 'Commercial'}
-    # (A proper assignment would analyze cluster centers, but this serves as a baseline)
-    df_poi['Cluster_Name'] = df_poi['Cluster'].map(cluster_names)
+    # Assign cluster names intuitively (Suggested k=4: Commercial, Residential, Hub, Mixed)
+    cluster_names = {0: 'Mixed', 1: 'Residential', 2: 'Commercial Hub', 3: 'Special/Industrial'}
+    df_poi['cluster_name'] = df_poi['cluster'].map(cluster_names)
 
     # Merge with stations master
     print("Merging with stations master...")
     df_stations = pd.read_csv('data/processed/stations_master.csv')
-    df_merged = pd.merge(df_stations, df_poi, on=['Station Code'], how='left', suffixes=('', '_poi'))
+    
+    # Drop existing cluster columns if they exist to avoid duplicates
+    if 'cluster' in df_stations.columns:
+        df_stations = df_stations.drop(columns=['cluster'])
+    if 'cluster_name' in df_stations.columns:
+        df_stations = df_stations.drop(columns=['cluster_name'])
+
+    df_merged = pd.merge(df_stations, df_poi[['Station Code', 'cluster', 'cluster_name']], on=['Station Code'], how='left')
     
     # Fill any missed stations
-    df_merged['Cluster'] = df_merged['Cluster'].fillna(-1)
-    df_merged['Cluster_Name'] = df_merged['Cluster_Name'].fillna('Unknown')
+    df_merged['cluster'] = df_merged['cluster'].fillna(-1).astype(int)
+    df_merged['cluster_name'] = df_merged['cluster_name'].fillna('Unknown')
     
-    # Save the updated dataset
-    output_path = 'data/processed/stations_features.csv'
-    df_merged.to_csv(output_path, index=False)
-    print(f"Features engineered and saved to {output_path}")
+    # Save back to stations_master.csv as requested
+    df_merged.to_csv('data/processed/stations_master.csv', index=False)
+    # Also save to stations_features.csv for compatibility with other scripts
+    df_merged_full = pd.merge(df_stations, df_poi, on=['Station Code'], how='left', suffixes=('', '_poi'))
+    df_merged_full.to_csv('data/processed/stations_features.csv', index=False)
+    
+    print(f"Features engineered. Updated stations_master.csv and saved to data/processed/stations_features.csv")
 
 if __name__ == '__main__':
     process_features()
