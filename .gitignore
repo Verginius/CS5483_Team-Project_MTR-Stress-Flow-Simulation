@@ -210,3 +210,4 @@ __marimo__/
 
 /data/realtime/*
 !/data/realtime/.gitkeep
+.vscode/settings.json
