@@ -1,98 +1,98 @@
-﻿Station Code,Station ID,Chinese Name,English Name,Lines,Is_Interchange,Barrier_Free_Facilities_Count,Facilities_AJ_Count,Facilities_HJ_Count,Facilities_MJ_Count,Facilities_VJ_Count
-ADM,2.0,金鐘,Admiralty,"EAL,ISL,SIL,TWL",True,22,3,7,4,8
-AIR,47.0,機場,Airport,AEL,False,15,1,5,2,7
-AUS,111.0,柯士甸,Austin,TML,False,21,3,5,4,9
-AWE,56.0,博覽館,AsiaWorld-Expo,AEL,False,20,2,5,4,9
-CAB,28.0,銅鑼灣,Causeway Bay,ISL,False,20,2,5,4,9
-CEN,1.0,中環,Central,"ISL,TWL",True,20,2,5,4,9
-CHH,12.0,彩虹,Choi Hung,KTL,False,20,2,5,4,9
-CHW,37.0,柴灣,Chai Wan,ISL,False,20,2,5,4,9
-CIO,98.0,第一城,City One,TML,False,21,2,5,4,10
-CKT,96.0,車公廟,Che Kung Temple,TML,False,22,3,5,4,10
-CSW,18.0,長沙灣,Cheung Sha Wan,TWL,False,20,2,5,4,9
-DIH,11.0,鑽石山,Diamond Hill,"KTL,TML",True,24,4,7,4,9
-DIS,55.0,迪士尼,Disneyland Resort,DRL,False,16,2,3,3,8
-ETS,80.0,尖東,East Tsim Sha Tsui,TML,False,23,4,6,4,9
-EXC,94.0,會展,Exhibition Centre,EAL,False,21,3,5,4,9
-FAN,74.0,粉嶺,Fanling,EAL,False,23,4,5,4,10
-FOH,30.0,炮台山,Fortress Hill,ISL,False,20,2,5,4,9
-FOT,69.0,火炭,Fo Tan,EAL,False,22,3,5,4,10
-HAH,51.0,坑口,Hang Hau,TKL,False,20,2,5,4,9
-HEO,101.0,恆安,Heng On,TML,False,22,2,6,4,10
-HFC,36.0,杏花邨,Heng Fa Chuen,ISL,False,20,2,5,4,9
-HIK,90.0,顯徑,Hin Keng,TML,False,21,3,5,4,9
-HKU,82.0,香港大學,HKU,ISL,False,21,3,5,4,9
-HOK,44.0,香港,Hong Kong,"AEL,TCL",True,0,0,0,0,0
-HOM,84.0,何文田,Ho Man Tin,"KTL,TML",True,24,3,7,4,10
-HUH,64.0,紅磡,Hung Hom,"EAL,TML",True,23,4,5,5,9
-JOR,4.0,佐敦,Jordan,TWL,False,20,2,5,4,9
-KAT,91.0,啟德,Kai Tak,TML,False,20,2,5,4,9
-KET,83.0,堅尼地城,Kennedy Town,ISL,False,21,3,5,4,9
-KOB,13.0,九龍灣,Kowloon Bay,KTL,False,23,5,5,4,9
-KOT,8.0,九龍塘,Kowloon Tong,"EAL,KTL",True,26,4,7,5,10
-KOW,45.0,九龍,Kowloon,"AEL,TCL",True,0,0,0,0,0
-KSR,115.0,錦上路,Kam Sheung Road,TML,False,21,3,5,4,9
-KWF,22.0,葵芳,Kwai Fong,TWL,False,20,2,5,4,9
-KWH,23.0,葵興,Kwai Hing,TWL,False,21,3,5,4,9
-KWT,15.0,觀塘,Kwun Tong,KTL,False,21,3,5,4,9
-LAK,21.0,茘景,Lai King,"TCL,TWL",True,20,2,5,4,9
-LAT,38.0,藍田,Lam Tin,KTL,False,21,2,5,5,9
-LCK,19.0,茘枝角,Lai Chi Kok,TWL,False,22,4,5,4,9
-LET,88.0,利東,Lei Tung,SIL,False,19,3,5,4,7
-LHP,57.0,康城,LOHAS Park,TKL,False,21,3,5,4,9
-LMC,78.0,落馬洲,Lok Ma Chau,EAL,False,23,3,5,5,10
-LOF,9.0,樂富,Lok Fu,KTL,False,20,2,5,4,9
-LOP,117.0,朗屏,Long Ping,TML,False,21,3,5,4,9
-LOW,76.0,羅湖,Lo Wu,EAL,False,23,3,5,5,10
-MEF,20.0,美孚,Mei Foo,"TML,TWL",True,25,4,7,5,9
-MKK,65.0,旺角東,Mong Kok East,EAL,False,21,2,5,4,10
-MOK,6.0,旺角,Mong Kok,"KTL,TWL",True,20,2,5,4,9
-MOS,102.0,馬鞍山,Ma On Shan,TML,False,21,2,5,4,10
-NAC,53.0,南昌,Nam Cheong,"TCL,TML",True,21,2,6,4,9
-NOP,31.0,北角,North Point,"ISL,TKL",True,20,2,5,4,9
-NTK,14.0,牛頭角,Ngau Tau Kok,KTL,False,20,2,5,4,9
-OCP,86.0,海洋公園,Ocean Park,SIL,False,19,3,5,4,7
-OLY,41.0,奧運,Olympic,TCL,False,21,3,5,4,9
-POA,52.0,寶琳,Po Lam,TKL,False,20,2,5,4,9
-PRE,16.0,太子,Prince Edward,"KTL,TWL",True,21,3,5,4,9
-QUB,32.0,鰂魚涌,Quarry Bay,"ISL,TKL",True,20,2,5,4,9
-SHM,99.0,石門,Shek Mun,TML,False,22,2,6,4,10
-SHS,75.0,上水,Sheung Shui,EAL,False,22,3,5,4,10
-SHT,68.0,沙田,Sha Tin,EAL,False,22,3,5,4,10
-SHW,26.0,上環,Sheung Wan,ISL,False,21,3,5,4,9
-SIH,119.0,兆康,Siu Hong,TML,False,22,4,5,4,9
-SKM,7.0,石硤尾,Shek Kip Mei,KTL,False,22,4,5,4,9
-SKW,35.0,筲箕灣,Shau Kei Wan,ISL,False,21,3,5,4,9
-SOH,89.0,海怡半島,South Horizons,SIL,False,18,2,5,4,7
-SSP,17.0,深水埗,Sham Shui Po,TWL,False,20,3,5,4,8
-STW,97.0,沙田圍,Sha Tin Wai,TML,False,21,2,5,4,10
-SUN,54.0,欣澳,Sunny Bay,"DRL,TCL",True,20,2,5,4,9
-SUW,92.0,宋皇臺,Sung Wong Toi,TML,False,22,4,5,4,9
-SWH,34.0,西灣河,Sai Wan Ho,ISL,False,20,2,5,4,9
-SYP,81.0,西營盤,Sai Ying Pun,ISL,False,21,3,5,4,9
-TAK,33.0,太古,Tai Koo,ISL,False,21,2,5,5,9
-TAP,72.0,大埔墟,Tai Po Market,EAL,False,21,2,5,4,10
-TAW,67.0,大圍,Tai Wai,"EAL,TML",True,21,2,5,4,10
-TIH,29.0,天后,Tin Hau,ISL,False,20,2,5,4,9
-TIK,49.0,調景嶺,Tiu Keng Leng,"KTL,TKL",True,20,2,5,4,9
-TIS,118.0,天水圍,Tin Shui Wai,TML,False,22,4,5,4,9
-TKO,50.0,將軍澳,Tseung Kwan O,TKL,False,20,2,5,4,9
-TKW,93.0,土瓜灣,To Kwa Wan,TML,False,21,3,5,4,9
-TSH,100.0,大水坑,Tai Shui Hang,TML,False,22,2,6,4,10
-TST,3.0,尖沙咀,Tsim Sha Tsui,TWL,False,21,3,5,4,9
-TSW,25.0,荃灣,Tsuen Wan,TWL,False,21,3,5,4,9
-TSY,46.0,青衣,Tsing Yi,"AEL,TCL",True,0,0,0,0,0
-TUC,43.0,東涌,Tung Chung,TCL,False,19,3,4,4,8
-TUM,120.0,屯門,Tuen Mun,TML,False,21,3,5,4,9
-TWH,24.0,大窩口,Tai Wo Hau,TWL,False,20,2,5,4,9
-TWO,73.0,太和,Tai Wo,EAL,False,21,2,5,4,10
-TWW,114.0,荃灣西,Tsuen Wan West,TML,False,20,2,5,4,9
-UNI,71.0,大學,University,EAL,False,23,4,5,4,10
-WAC,27.0,灣仔,Wan Chai,ISL,False,20,2,5,4,9
-WCH,87.0,黃竹坑,Wong Chuk Hang,SIL,False,19,3,5,4,7
-WHA,85.0,黃埔,Whampoa,KTL,False,21,3,5,4,9
-WKS,103.0,烏溪沙,Wu Kai Sha,TML,False,22,3,5,4,10
-WTS,10.0,黃大仙,Wong Tai Sin,KTL,False,21,3,5,4,9
-YAT,48.0,油塘,Yau Tong,"KTL,TKL",True,22,4,5,4,9
-YMT,5.0,油麻地,Yau Ma Tei,"KTL,TWL",True,21,3,5,4,9
-YUL,116.0,元朗,Yuen Long,TML,False,22,4,5,4,9
+Station Code,Station ID,Chinese Name,English Name,Lines,Is_Interchange,Barrier_Free_Facilities_Count,Facilities_AJ_Count,Facilities_HJ_Count,Facilities_MJ_Count,Facilities_VJ_Count,cluster,cluster_name
+ADM,2.0,金鐘,Admiralty,"EAL,ISL,SIL,TWL",True,22,3,7,4,8,3,Special/Industrial
+AIR,47.0,機場,Airport,AEL,False,15,1,5,2,7,1,Residential
+AUS,111.0,柯士甸,Austin,TML,False,21,3,5,4,9,0,Mixed
+AWE,56.0,博覽館,AsiaWorld-Expo,AEL,False,20,2,5,4,9,1,Residential
+CAB,28.0,銅鑼灣,Causeway Bay,ISL,False,20,2,5,4,9,3,Special/Industrial
+CEN,1.0,中環,Central,"ISL,TWL",True,20,2,5,4,9,3,Special/Industrial
+CHH,12.0,彩虹,Choi Hung,KTL,False,20,2,5,4,9,0,Mixed
+CHW,37.0,柴灣,Chai Wan,ISL,False,20,2,5,4,9,2,Commercial Hub
+CIO,98.0,第一城,City One,TML,False,21,2,5,4,10,0,Mixed
+CKT,96.0,車公廟,Che Kung Temple,TML,False,22,3,5,4,10,0,Mixed
+CSW,18.0,長沙灣,Cheung Sha Wan,TWL,False,20,2,5,4,9,2,Commercial Hub
+DIH,11.0,鑽石山,Diamond Hill,"KTL,TML",True,24,4,7,4,9,0,Mixed
+DIS,55.0,迪士尼,Disneyland Resort,DRL,False,16,2,3,3,8,1,Residential
+ETS,80.0,尖東,East Tsim Sha Tsui,TML,False,23,4,6,4,9,3,Special/Industrial
+EXC,94.0,會展,Exhibition Centre,EAL,False,21,3,5,4,9,1,Residential
+FAN,74.0,粉嶺,Fanling,EAL,False,23,4,5,4,10,0,Mixed
+FOH,30.0,炮台山,Fortress Hill,ISL,False,20,2,5,4,9,2,Commercial Hub
+FOT,69.0,火炭,Fo Tan,EAL,False,22,3,5,4,10,1,Residential
+HAH,51.0,坑口,Hang Hau,TKL,False,20,2,5,4,9,0,Mixed
+HEO,101.0,恆安,Heng On,TML,False,22,2,6,4,10,0,Mixed
+HFC,36.0,杏花邨,Heng Fa Chuen,ISL,False,20,2,5,4,9,1,Residential
+HIK,90.0,顯徑,Hin Keng,TML,False,21,3,5,4,9,1,Residential
+HKU,82.0,香港大學,HKU,ISL,False,21,3,5,4,9,0,Mixed
+HOK,44.0,香港,Hong Kong,"AEL,TCL",True,0,0,0,0,0,3,Special/Industrial
+HOM,84.0,何文田,Ho Man Tin,"KTL,TML",True,24,3,7,4,10,0,Mixed
+HUH,64.0,紅磡,Hung Hom,"EAL,TML",True,23,4,5,5,9,1,Residential
+JOR,4.0,佐敦,Jordan,TWL,False,20,2,5,4,9,3,Special/Industrial
+KAT,91.0,啟德,Kai Tak,TML,False,20,2,5,4,9,1,Residential
+KET,83.0,堅尼地城,Kennedy Town,ISL,False,21,3,5,4,9,0,Mixed
+KOB,13.0,九龍灣,Kowloon Bay,KTL,False,23,5,5,4,9,0,Mixed
+KOT,8.0,九龍塘,Kowloon Tong,"EAL,KTL",True,26,4,7,5,10,0,Mixed
+KOW,45.0,九龍,Kowloon,"AEL,TCL",True,0,0,0,0,0,1,Residential
+KSR,115.0,錦上路,Kam Sheung Road,TML,False,21,3,5,4,9,1,Residential
+KWF,22.0,葵芳,Kwai Fong,TWL,False,20,2,5,4,9,0,Mixed
+KWH,23.0,葵興,Kwai Hing,TWL,False,21,3,5,4,9,0,Mixed
+KWT,15.0,觀塘,Kwun Tong,KTL,False,21,3,5,4,9,0,Mixed
+LAK,21.0,茘景,Lai King,"TCL,TWL",True,20,2,5,4,9,0,Mixed
+LAT,38.0,藍田,Lam Tin,KTL,False,21,2,5,5,9,0,Mixed
+LCK,19.0,茘枝角,Lai Chi Kok,TWL,False,22,4,5,4,9,0,Mixed
+LET,88.0,利東,Lei Tung,SIL,False,19,3,5,4,7,0,Mixed
+LHP,57.0,康城,LOHAS Park,TKL,False,21,3,5,4,9,1,Residential
+LMC,78.0,落馬洲,Lok Ma Chau,EAL,False,23,3,5,5,10,1,Residential
+LOF,9.0,樂富,Lok Fu,KTL,False,20,2,5,4,9,0,Mixed
+LOP,117.0,朗屏,Long Ping,TML,False,21,3,5,4,9,2,Commercial Hub
+LOW,76.0,羅湖,Lo Wu,EAL,False,23,3,5,5,10,1,Residential
+MEF,20.0,美孚,Mei Foo,"TML,TWL",True,25,4,7,5,9,0,Mixed
+MKK,65.0,旺角東,Mong Kok East,EAL,False,21,2,5,4,10,3,Special/Industrial
+MOK,6.0,旺角,Mong Kok,"KTL,TWL",True,20,2,5,4,9,3,Special/Industrial
+MOS,102.0,馬鞍山,Ma On Shan,TML,False,21,2,5,4,10,1,Residential
+NAC,53.0,南昌,Nam Cheong,"TCL,TML",True,21,2,6,4,9,1,Residential
+NOP,31.0,北角,North Point,"ISL,TKL",True,20,2,5,4,9,2,Commercial Hub
+NTK,14.0,牛頭角,Ngau Tau Kok,KTL,False,20,2,5,4,9,0,Mixed
+OCP,86.0,海洋公園,Ocean Park,SIL,False,19,3,5,4,7,1,Residential
+OLY,41.0,奧運,Olympic,TCL,False,21,3,5,4,9,1,Residential
+POA,52.0,寶琳,Po Lam,TKL,False,20,2,5,4,9,0,Mixed
+PRE,16.0,太子,Prince Edward,"KTL,TWL",True,21,3,5,4,9,2,Commercial Hub
+QUB,32.0,鰂魚涌,Quarry Bay,"ISL,TKL",True,20,2,5,4,9,1,Residential
+SHM,99.0,石門,Shek Mun,TML,False,22,2,6,4,10,1,Residential
+SHS,75.0,上水,Sheung Shui,EAL,False,22,3,5,4,10,0,Mixed
+SHT,68.0,沙田,Sha Tin,EAL,False,22,3,5,4,10,0,Mixed
+SHW,26.0,上環,Sheung Wan,ISL,False,21,3,5,4,9,3,Special/Industrial
+SIH,119.0,兆康,Siu Hong,TML,False,22,4,5,4,9,0,Mixed
+SKM,7.0,石硤尾,Shek Kip Mei,KTL,False,22,4,5,4,9,2,Commercial Hub
+SKW,35.0,筲箕灣,Shau Kei Wan,ISL,False,21,3,5,4,9,2,Commercial Hub
+SOH,89.0,海怡半島,South Horizons,SIL,False,18,2,5,4,7,1,Residential
+SSP,17.0,深水埗,Sham Shui Po,TWL,False,20,3,5,4,8,2,Commercial Hub
+STW,97.0,沙田圍,Sha Tin Wai,TML,False,21,2,5,4,10,0,Mixed
+SUN,54.0,欣澳,Sunny Bay,"DRL,TCL",True,20,2,5,4,9,1,Residential
+SUW,92.0,宋皇臺,Sung Wong Toi,TML,False,22,4,5,4,9,1,Residential
+SWH,34.0,西灣河,Sai Wan Ho,ISL,False,20,2,5,4,9,0,Mixed
+SYP,81.0,西營盤,Sai Ying Pun,ISL,False,21,3,5,4,9,2,Commercial Hub
+TAK,33.0,太古,Tai Koo,ISL,False,21,2,5,5,9,0,Mixed
+TAP,72.0,大埔墟,Tai Po Market,EAL,False,21,2,5,4,10,0,Mixed
+TAW,67.0,大圍,Tai Wai,"EAL,TML",True,21,2,5,4,10,0,Mixed
+TIH,29.0,天后,Tin Hau,ISL,False,20,2,5,4,9,0,Mixed
+TIK,49.0,調景嶺,Tiu Keng Leng,"KTL,TKL",True,20,2,5,4,9,0,Mixed
+TIS,118.0,天水圍,Tin Shui Wai,TML,False,22,4,5,4,9,0,Mixed
+TKO,50.0,將軍澳,Tseung Kwan O,TKL,False,20,2,5,4,9,0,Mixed
+TKW,93.0,土瓜灣,To Kwa Wan,TML,False,21,3,5,4,9,2,Commercial Hub
+TSH,100.0,大水坑,Tai Shui Hang,TML,False,22,2,6,4,10,1,Residential
+TST,3.0,尖沙咀,Tsim Sha Tsui,TWL,False,21,3,5,4,9,3,Special/Industrial
+TSW,25.0,荃灣,Tsuen Wan,TWL,False,21,3,5,4,9,2,Commercial Hub
+TSY,46.0,青衣,Tsing Yi,"AEL,TCL",True,0,0,0,0,0,0,Mixed
+TUC,43.0,東涌,Tung Chung,TCL,False,19,3,4,4,8,1,Residential
+TUM,120.0,屯門,Tuen Mun,TML,False,21,3,5,4,9,0,Mixed
+TWH,24.0,大窩口,Tai Wo Hau,TWL,False,20,2,5,4,9,2,Commercial Hub
+TWO,73.0,太和,Tai Wo,EAL,False,21,2,5,4,10,2,Commercial Hub
+TWW,114.0,荃灣西,Tsuen Wan West,TML,False,20,2,5,4,9,0,Mixed
+UNI,71.0,大學,University,EAL,False,23,4,5,4,10,1,Residential
+WAC,27.0,灣仔,Wan Chai,ISL,False,20,2,5,4,9,3,Special/Industrial
+WCH,87.0,黃竹坑,Wong Chuk Hang,SIL,False,19,3,5,4,7,1,Residential
+WHA,85.0,黃埔,Whampoa,KTL,False,21,3,5,4,9,0,Mixed
+WKS,103.0,烏溪沙,Wu Kai Sha,TML,False,22,3,5,4,10,1,Residential
+WTS,10.0,黃大仙,Wong Tai Sin,KTL,False,21,3,5,4,9,2,Commercial Hub
+YAT,48.0,油塘,Yau Tong,"KTL,TKL",True,22,4,5,4,9,0,Mixed
+YMT,5.0,油麻地,Yau Ma Tei,"KTL,TWL",True,21,3,5,4,9,2,Commercial Hub
+YUL,116.0,元朗,Yuen Long,TML,False,22,4,5,4,9,2,Commercial Hub
