@@ -214,3 +214,7 @@ __marimo__/
 
 Dashboard.mp4
 MTR Passenger Flow System Report.pptx
+*.pdf
+
+# Ignore docs
+docs/
